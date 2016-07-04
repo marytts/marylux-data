@@ -1,14 +1,12 @@
-plugins {
-    id 'de.undercouch.download' version '3.0.0'
-}
-
 group 'de.dfki.mary'
 version '0.1'
 
-task downloadAudio << {
-    download {
-        src 'https://github.com/marytts/marylux-data/releases/download/v0.1/marylux-data-0.1.flac'
-        dest projectDir
-        overwrite = false
+task downloadAudio {
+    def audioFile = file('marylux-data.flac')
+    outputs.upToDateWhen { audioFile.exists() }
+    doLast {
+        audioFile.withOutputStream { out ->
+            out << new URL('https://github.com/marytts/marylux-data/releases/download/v0.1/marylux-data-0.1.flac').openStream()
+        }
     }
 }
