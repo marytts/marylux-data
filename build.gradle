@@ -56,3 +56,27 @@ task wav {
         }
     }
 }
+
+task lab {
+    def yamlFile = file('marylux-data.yaml')
+    def destDir = file("$buildDir/lab")
+    inputs.files yamlFile
+    outputs.dir destDir
+    doFirst {
+        destDir.mkdirs()
+    }
+    doLast {
+        new Yaml().load(yamlFile.newReader()).each { utterance ->
+            if (utterance.segments) {
+                new File(destDir, "${utterance.prompt}.lab").withWriter { out ->
+                    out.println "#"
+                    def end = 0f
+                    utterance.segments.each { segment ->
+                        end += segment.dur as float
+                        out.println "\t${end.round(3)}\t125\t$segment.lab"
+                    }
+                }
+            }
+        }
+    }
+}
