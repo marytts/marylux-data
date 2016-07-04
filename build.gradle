@@ -1,3 +1,16 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath group: 'org.yaml', name: 'snakeyaml', version: '1.16'
+    }
+}
+
+apply plugin: 'base'
+
+import org.yaml.snakeyaml.Yaml
+
 group 'de.dfki.mary'
 version '0.1'
 
@@ -7,6 +20,21 @@ task downloadAudio {
     doLast {
         audioFile.withOutputStream { out ->
             out << new URL('https://github.com/marytts/marylux-data/releases/download/v0.1/marylux-data-0.1.flac').openStream()
+        }
+    }
+}
+
+task text {
+    def yamlFile = file('marylux-data.yaml')
+    def destDir = file("$buildDir/text")
+    inputs.files yamlFile
+    outputs.dir destDir
+    doFirst {
+        destDir.mkdirs()
+    }
+    doLast {
+        new Yaml().load(yamlFile.newReader()).each { utterance ->
+            new File(destDir, "${utterance.prompt}.txt").text = utterance.text.replaceAll("''", "'")
         }
     }
 }
