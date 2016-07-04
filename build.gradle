@@ -38,3 +38,21 @@ task text {
         }
     }
 }
+
+task wav {
+    def yamlFile = file('marylux-data.yaml')
+    def audioFile = file('marylux-data.flac')
+    def destDir = file("$buildDir/wav")
+    inputs.files yamlFile, audioFile
+    outputs.dir destDir
+    doFirst {
+        destDir.mkdirs()
+    }
+    doLast {
+        new Yaml().load(yamlFile.newReader()).each { utterance ->
+            exec {
+                commandLine 'sox', audioFile, "$destDir/${utterance.prompt}.wav", 'trim', utterance.start, '=' + utterance.end
+            }
+        }
+    }
+}
