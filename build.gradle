@@ -19,7 +19,7 @@ ext {
 }
 
 task downloadAudio {
-    outputs.upToDateWhen { audioFile.exists() }
+    outputs.files audioFile
     doLast {
         audioFile.withOutputStream { out ->
             out << new URL('https://github.com/marytts/marylux-data/releases/download/v0.1/marylux-data-0.1.flac').openStream()
@@ -45,7 +45,7 @@ task text {
 task wav {
     def yamlFile = file('marylux-data.yaml')
     ext.destDir = file("$buildDir/wav")
-    inputs.files yamlFile, audioFile
+    inputs.files yamlFile, downloadAudio
     outputs.dir destDir
     mustRunAfter downloadAudio
     doFirst {
