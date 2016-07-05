@@ -47,6 +47,7 @@ task wav {
     def destDir = file("$buildDir/wav")
     inputs.files yamlFile, audioFile
     outputs.dir destDir
+    mustRunAfter downloadAudio
     doFirst {
         destDir.mkdirs()
     }
