@@ -14,8 +14,11 @@ import org.yaml.snakeyaml.Yaml
 group 'de.dfki.mary'
 version '0.1'
 
+ext {
+    audioFile = file('marylux-data.flac')
+}
+
 task downloadAudio {
-    def audioFile = file('marylux-data.flac')
     outputs.upToDateWhen { audioFile.exists() }
     doLast {
         audioFile.withOutputStream { out ->
@@ -41,7 +44,6 @@ task text {
 
 task wav {
     def yamlFile = file('marylux-data.yaml')
-    def audioFile = file('marylux-data.flac')
     def destDir = file("$buildDir/wav")
     inputs.files yamlFile, audioFile
     outputs.dir destDir
