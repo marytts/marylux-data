@@ -51,7 +51,10 @@ task wav {
     doLast {
         new Yaml().load(yamlFile.newReader()).each { utterance ->
             exec {
-                commandLine 'sox', audioFile, "$destDir/${utterance.prompt}.wav", 'trim', utterance.start, '=' + utterance.end, 'rate', 16000
+                commandLine 'sox', audioFile, "$destDir/${utterance.prompt}.wav", 'trim', utterance.start, '=' + utterance.end
+                if (findProperty('sampleRate')) {
+                    commandLine += ['rate', sampleRate]
+                }
             }
         }
     }
