@@ -37,7 +37,7 @@ task text {
     }
     doLast {
         new Yaml().load(yamlFile.newReader()).each { utterance ->
-            new File(destDir, "${utterance.prompt}.txt").text = utterance.text.replaceAll("''", "'")
+            new File(destDir, "${utterance.prompt}.txt").text = utterance.text
         }
     }
 }
