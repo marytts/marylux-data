@@ -1,21 +1,11 @@
-buildscript {
-    repositories {
-        jcenter()
-    }
-    dependencies {
-        classpath group: 'org.yaml', name: 'snakeyaml', version: '1.16'
-    }
-}
-
 apply plugin: 'base'
-
-import org.yaml.snakeyaml.Yaml
 
 group 'de.dfki.mary'
 version '0.2.0-SNAPSHOT'
 
 ext {
     audioFile = file("$buildDir/marylux-data.flac")
+    yamlFile = file('marylux-data.yaml')
 }
 
 task downloadAudio {
@@ -27,62 +17,8 @@ task downloadAudio {
     }
 }
 
-task text {
-    def yamlFile = file('marylux-data.yaml')
-    ext.destDir = file("$buildDir/text")
-    inputs.files yamlFile
-    outputs.dir destDir
-    doFirst {
-        destDir.mkdirs()
-    }
-    doLast {
-        new Yaml().load(yamlFile.newReader()).each { utterance ->
-            new File(destDir, "${utterance.prompt}.txt").text = utterance.text
-        }
-    }
-}
+task text(type: ExtractTextTask)
 
-task wav {
-    def yamlFile = file('marylux-data.yaml')
-    ext.destDir = file("$buildDir/wav")
-    inputs.files yamlFile, downloadAudio
-    outputs.dir destDir
-    mustRunAfter downloadAudio
-    doFirst {
-        destDir.mkdirs()
-    }
-    doLast {
-        new Yaml().load(yamlFile.newReader()).each { utterance ->
-            exec {
-                commandLine 'sox', audioFile, "$destDir/${utterance.prompt}.wav", 'trim', utterance.start, '=' + utterance.end
-                if (findProperty('sampleRate')) {
-                    commandLine += ['rate', sampleRate]
-                }
-            }
-        }
-    }
-}
+task wav(type: ExtractWavTask)
 
-task lab {
-    def yamlFile = file('marylux-data.yaml')
-    ext.destDir = file("$buildDir/lab")
-    inputs.files yamlFile
-    outputs.dir destDir
-    doFirst {
-        destDir.mkdirs()
-    }
-    doLast {
-        new Yaml().load(yamlFile.newReader()).each { utterance ->
-            if (utterance.segments) {
-                new File(destDir, "${utterance.prompt}.lab").withWriter { out ->
-                    out.println "#"
-                    def end = 0f
-                    utterance.segments.each { segment ->
-                        end += segment.dur as float
-                        out.println "\t${end.round(3)}\t125\t$segment.lab"
-                    }
-                }
-            }
-        }
-    }
-}
+task lab(type: ExtractLabTask)
