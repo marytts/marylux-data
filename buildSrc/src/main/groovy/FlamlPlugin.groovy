@@ -11,6 +11,7 @@ class FlamlPlugin implements Plugin<Project> {
         project.pluginManager.apply(DownloadTaskPlugin)
 
         project.extensions.extraProperties.yamlFile = project.file("${project.name}.yaml")
+        project.extensions.extraProperties.flacFile = project.file("${project.name}.flac")
 
         project.task('text', type: ExtractTextTask)
         project.task('wav', type: ExtractWavTask)

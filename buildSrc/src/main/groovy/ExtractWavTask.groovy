@@ -13,7 +13,7 @@ class ExtractWavTask extends DefaultTask {
         new Yaml().load(yamlFile.newReader()).each { utterance ->
             project.exec {
                 commandLine 'sox',
-                        project.audioFile,
+                        project.flacFile,
                         project.file("$destDir/${utterance.prompt}.wav"),
                         'trim',
                         utterance.start,

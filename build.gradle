@@ -3,16 +3,12 @@ apply plugin: 'flaml'
 group 'de.dfki.mary'
 version '0.2.0-SNAPSHOT'
 
-ext {
-    audioFile = file("$buildDir/marylux-data.flac")
-}
-
 task downloadAudio {
-    outputs.file audioFile
+    outputs.file flacFile
     doLast {
         download {
             src 'https://github.com/marytts/marylux-data/releases/download/v0.1.1/marylux-data.flac'
-            dest audioFile
+            dest flacFile
             overwrite = false
         }
     }
