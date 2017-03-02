@@ -1,12 +1,16 @@
+import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.*
 
-class ExtractLabTask extends ExtractTask {
+import org.yaml.snakeyaml.Yaml
+
+class ExtractLabTask extends DefaultTask {
     @OutputDirectory
     def destDir = project.file("$project.buildDir/lab")
 
     @TaskAction
     def extract() {
-        yaml.load(yamlFile.newReader()).each { utterance ->
+        def yamlFile = project.yamlFile
+        new Yaml().load(yamlFile.newReader()).each { utterance ->
             if (utterance.segments) {
                 project.file("$destDir/${utterance.prompt}.lab").withWriter { lab ->
                     lab.println "#"
