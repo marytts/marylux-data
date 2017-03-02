@@ -5,7 +5,6 @@ version '0.2.0-SNAPSHOT'
 
 ext {
     audioFile = file("$buildDir/marylux-data.flac")
-    yamlFile = file('marylux-data.yaml')
 }
 
 task downloadAudio {
