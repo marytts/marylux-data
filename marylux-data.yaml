@@ -1,5 +1,5 @@
 - prompt: lb-northwind-0001
-  text: Den Nordwand an d''Sonn
+  text: Den Nordwand an d'Sonn
   start: 5.859
   end: 7.261
   segments:
@@ -22,7 +22,7 @@
   - {lab: n, dur: 0.105}
   - {lab: _, dur: 0.201}
 - prompt: lb-northwind-0002
-  text: An der Zäit hunn sech den Nordwand an d''Sonn gestridden,
+  text: An der Zäit hunn sech den Nordwand an d'Sonn gestridden,
   start: 10.383
   end: 12.964
   segments:
@@ -402,7 +402,7 @@
   - {lab: n, dur: 0.095}
   - {lab: _, dur: 0.152}
 - prompt: lb-northwind-0010
-  text: Dunn huet d''Sonn d''Loft mat hire frëndleche Strale gewiermt,
+  text: Dunn huet d'Sonn d'Loft mat hire frëndleche Strale gewiermt,
   start: 48.174
   end: 51.243
   segments:
@@ -501,7 +501,7 @@
   - {lab: n, dur: 0.065}
   - {lab: _, dur: 0.083}
 - prompt: lb-northwind-0012
-  text: Do huet den Nordwand missen zouginn, dass d''Sonn vun hinnen zwee de Stäerkste wier.
+  text: Do huet den Nordwand missen zouginn, dass d'Sonn vun hinnen zwee de Stäerkste wier.
   start: 56.812
   end: 60.392
   segments:
@@ -1242,7 +1242,7 @@
   - {lab: i, dur: 0.19}
   - {lab: _, dur: 0.168}
 - prompt: lb-wiki-0002
-  text: Hei handelt et sech haaptsächlech ëm d''Liewensversécherung, déi entweder
+  text: Hei handelt et sech haaptsächlech ëm d'Liewensversécherung, déi entweder
   start: 189.242
   end: 193.574
   segments:
@@ -1493,7 +1493,7 @@
   - {lab: N, dur: 0.125}
   - {lab: _, dur: 0.178}
 - prompt: lb-wiki-0007
-  text: D''Bréck hat 4 flaach Béi mat Feldwäite vun 18,33 m. Si stoung op dräi Flosspilieren déi 3 Meter breet waren, a war domatter am Ganzen 82,32 Meter laang.
+  text: D'Bréck hat 4 flaach Béi mat Feldwäite vun 18,33 m. Si stoung op dräi Flosspilieren déi 3 Meter breet waren, a war domatter am Ganzen 82,32 Meter laang.
   start: 241.129
   end: 252.537
   segments:
@@ -1605,7 +1605,7 @@
   - {lab: N, dur: 0.135}
   - {lab: _, dur: 0.133}
 - prompt: lb-wiki-0008
-  text: Sailor-Kriegerinne sinn d''Beschützer vun de Planéiten am Universum.
+  text: Sailor-Kriegerinne sinn d'Beschützer vun de Planéiten am Universum.
   start: 256.454
   end: 259.871
   segments:
@@ -1919,7 +1919,7 @@
   - {lab: t, dur: 0.15}
   - {lab: _, dur: 0.028}
 - prompt: lb-wiki-0012
-  text: Dat ass och net noutwenneg, well si gëtt vu baussen duerch d''Moundräich a vu bannen duerch d''Goldräich geschützt.
+  text: Dat ass och net noutwenneg, well si gëtt vu baussen duerch d'Moundräich a vu bannen duerch d'Goldräich geschützt.
   start: 316.097
   end: 320.829
   segments:
@@ -2000,7 +2000,7 @@
   - {lab: t, dur: 0.075}
   - {lab: _, dur: 0.023}
 - prompt: lb-wiki-0013
-  text: De Prënz vun der Äerd, den Endymion(Mamoru an der Géigewart), representéiert d''Äerd amplaz vun enger egener Sailor-Kriegerin.
+  text: De Prënz vun der Äerd, den Endymion(Mamoru an der Géigewart), representéiert d'Äerd amplaz vun enger egener Sailor-Kriegerin.
   start: 327.5
   end: 334.064
   segments:
@@ -2109,7 +2109,7 @@
   - {lab: n, dur: 0.135}
   - {lab: _, dur: 0.064}
 - prompt: lb-wiki-0014
-  text: De 90. Giro d''Italia gouf vum 12. Mee bis den 3. Juni 2007 gefuer.
+  text: De 90. Giro d'Italia gouf vum 12. Mee bis den 3. Juni 2007 gefuer.
   start: 338.719
   end: 343.538
   segments:
@@ -2571,7 +2571,7 @@
   - {lab: t, dur: 0.12}
   - {lab: _, dur: 0.077}
 - prompt: lb-wiki-0019
-  text: Well nëmmen e puer Joer virdrun och de Newton-Teleskop an de Gregory-Teleskop erfonnt goufen, hat eng europawäit Diskussioun iwwer d''Vir- an Npdeeler vun dèese Systemer stattfonnt.
+  text: Well nëmmen e puer Joer virdrun och de Newton-Teleskop an de Gregory-Teleskop erfonnt goufen, hat eng europawäit Diskussioun iwwer d'Vir- an Npdeeler vun dèese Systemer stattfonnt.
   start: 396.014
   end: 405.221
   segments:
@@ -2884,7 +2884,7 @@
   - {lab: i, dur: 0.12}
   - {lab: _, dur: 0.12}
 - prompt: lb-wiki-0022
-  text: Den Alterf(arab. ''de Bléck'') ass de Numm vum Stär λ Leonis(Lambda Leonis). Den Alterf gehéiert zu der Spektralklass K5 an huet eng visuell Magnitude vu +4,32 mag.
+  text: Den Alterf(arab. 'de Bléck') ass de Numm vum Stär λ Leonis(Lambda Leonis). Den Alterf gehéiert zu der Spektralklass K5 an huet eng visuell Magnitude vu +4,32 mag.
   start: 451.994
   end: 464.037
   segments:
@@ -3074,7 +3074,7 @@
   - {lab: N, dur: 0.04}
   - {lab: _, dur: 0.036}
 - prompt: lb-wiki-0024
-  text: ­*D''Welt huet 1001 Steckdousen(E puer Gedankespréng iwwert d''Liesen) Concours littéraire national pour essais littéraires 1998
+  text: ­*D'Welt huet 1001 Steckdousen(E puer Gedankespréng iwwert d'Liesen) Concours littéraire national pour essais littéraires 1998
   start: 481.771
   end: 489.785
   segments:
@@ -3521,7 +3521,7 @@
   - {lab: n, dur: 0.15}
   - {lab: _, dur: 0.121}
 - prompt: lb-wiki-0029
-  text: Enn 2009 war d''HFN Proprietaire vu ronn 925 ha Terrainen. Dovunner
+  text: Enn 2009 war d'HFN Proprietaire vu ronn 925 ha Terrainen. Dovunner
   start: 612.995
   end: 618.987
   segments:
@@ -4024,7 +4024,7 @@
   - {lab: R, dur: 1.425}
   - {lab: _, dur: 2.689}
 - prompt: lb-wiki-0034
-  text: Iwwer d''Halschent vun de Déieren aus der Klass vun de Mamendéiere si Knabberdéieren. Si sinn domadder déi gréissten a villfältegst Uerdnung aus där Klass.
+  text: Iwwer d'Halschent vun de Déieren aus der Klass vun de Mamendéiere si Knabberdéieren. Si sinn domadder déi gréissten a villfältegst Uerdnung aus där Klass.
   start: 689.171
   end: 696.655
   segments:
@@ -5148,7 +5148,7 @@
   - {lab: n, dur: 0.16}
   - {lab: _, dur: 0.179}
 - prompt: lb-wiki-0044
-  text: D''Professeren Hans Leibundgut am Waldbau an Heinz Ellenberg an der Planzesoziologie op der ETH Zürich hun hien am stäerkste geprägt.
+  text: D'Professeren Hans Leibundgut am Waldbau an Heinz Ellenberg an der Planzesoziologie op der ETH Zürich hun hien am stäerkste geprägt.
   start: 847.664
   end: 855.425
   segments:
@@ -5384,7 +5384,7 @@
   - {lab: X, dur: 0.19}
   - {lab: _, dur: 0.157}
 - prompt: lb-wiki-0046
-  text: An enger Ried u seng Genereel huet e sech zefridden iwwer d''Resultat vun der Ardennenoffensiv ausgedréckt a gläichzäiteg d''Operatioun Nordwind bekannt ginn déi géint déi 7. amerikanesch Arméi geriicht war, déi um südlechen Deel vun der Westfront stoung.
+  text: An enger Ried u seng Genereel huet e sech zefridden iwwer d'Resultat vun der Ardennenoffensiv ausgedréckt a gläichzäiteg d'Operatioun Nordwind bekannt ginn déi géint déi 7. amerikanesch Arméi geriicht war, déi um südlechen Deel vun der Westfront stoung.
   start: 888.44
   end: 901.079
   segments:
@@ -5583,7 +5583,7 @@
   - {lab: N, dur: 0.065}
   - {lab: _, dur: 0.189}
 - prompt: lb-wiki-0047
-  text: Mä amplaz seng 5. a 6. Panzeraméi hanner de Westwall zréckzezéien, kruten déi den Uerder fir d''Koppe vun den Ardennen ze verdeedegen, wat schliislech zur kompletter Defaite vun deenen Truppe geféiert huet.
+  text: Mä amplaz seng 5. a 6. Panzeraméi hanner de Westwall zréckzezéien, kruten déi den Uerder fir d'Koppe vun den Ardennen ze verdeedegen, wat schliislech zur kompletter Defaite vun deenen Truppe geféiert huet.
   start: 911.212
   end: 921.845
   segments:
@@ -5987,7 +5987,7 @@
   - {lab: R, dur: 0.105}
   - {lab: _, dur: 0.105}
 - prompt: lb-wiki-0050
-  text: 'D''Wuert Tango bezeechent:'
+  text: "D'Wuert Tango bezeechent:"
   start: 951.363
   end: 952.838
   segments:
@@ -6013,7 +6013,7 @@
   - {lab: t, dur: 0.13}
   - {lab: _, dur: 0.04}
 - prompt: lb-wiki-0051
-  text: D''Gemeng Alameda del Valle huet 5.233 Awunner op enger Fläch vun 22,2 km².
+  text: D'Gemeng Alameda del Valle huet 5.233 Awunner op enger Fläch vun 22,2 km².
   start: 970.019
   end: 976.825
   segments:
@@ -6164,7 +6164,7 @@
   - {lab: n, dur: 0.13}
   - {lab: _, dur: 0.103}
 - prompt: lb-wiki-0054
-  text: Um Virowend vu Léiffrawëschdag(15. August) geet all Joer eng Prëssessioun vu Réiser aus bei d''Kapell, wou eng Mass gehalen an de Krautwësch geseent gëtt.
+  text: Um Virowend vu Léiffrawëschdag(15. August) geet all Joer eng Prëssessioun vu Réiser aus bei d'Kapell, wou eng Mass gehalen an de Krautwësch geseent gëtt.
   start: 1018.132
   end: 1027.089
   segments:
@@ -6450,7 +6450,7 @@
   - {lab: e, dur: 0.115}
   - {lab: _, dur: 0.158}
 - prompt: lb-wiki-0057
-  text: D''Schielmees(Parus major) ass eng Vullenaart aus der Famill vun de Meesen(Paridae).
+  text: D'Schielmees(Parus major) ass eng Vullenaart aus der Famill vun de Meesen(Paridae).
   start: 1059.943
   end: 1065.126
   segments:
@@ -6666,7 +6666,7 @@
   - {lab: s, dur: 0.15}
   - {lab: _, dur: 0.112}
 - prompt: lb-wiki-0061
-  text: Een ass bei engem Halebrand futti gaang, en aneren ass verbrannt, en drëtten ass no engem Accident ''verschwonn''.
+  text: Een ass bei engem Halebrand futti gaang, en aneren ass verbrannt, en drëtten ass no engem Accident 'verschwonn'.
   start: 1089.67
   end: 1094.927
   segments:
@@ -6776,7 +6776,7 @@
   - {lab: n, dur: 0.185}
   - {lab: _, dur: 0.086}
 - prompt: lb-wiki-0063
-  text: Fir de Film Tucker The Man And His Dream goufen 22 original Tucker ''48 benotzt.
+  text: Fir de Film Tucker The Man And His Dream goufen 22 original Tucker '48 benotzt.
   start: 1111.473
   end: 1116.804
   segments:
@@ -6908,7 +6908,7 @@
   - {lab: n, dur: 0.19}
   - {lab: _, dur: 0.059}
 - prompt: lb-wiki-0065
-  text: D''Instrument ass an zwéin Deeler.
+  text: D'Instrument ass an zwéin Deeler.
   start: 1127.953
   end: 1129.645
   segments:
@@ -6993,7 +6993,7 @@
   - {lab: l, dur: 0.045}
   - {lab: _, dur: 0.067}
 - prompt: lb-wiki-0067
-  text: D''Gehais an d''Bänk sinn aus massiver Eech, mat engem Gitter, dat handgeschnëtzt ass.
+  text: D'Gehais an d'Bänk sinn aus massiver Eech, mat engem Gitter, dat handgeschnëtzt ass.
   start: 1143.13
   end: 1147.367
   segments:
@@ -7143,7 +7143,7 @@
   - {lab: s, dur: 0.2}
   - {lab: _, dur: 0.054}
 - prompt: lb-wiki-0070
-  text: D''Uergel ass 114 cm breet, 66 cm déif a 70 cm héich.
+  text: D'Uergel ass 114 cm breet, 66 cm déif a 70 cm héich.
   start: 1163.306
   end: 1168.629
   segments:
@@ -7478,7 +7478,7 @@
   - {lab: n, dur: 0.145}
   - {lab: _, dur: 0.053}
 - prompt: lb-wiki-0076
-  text: Wou den Edmond Halley am 17. Joerhonnert säi Stärekatalog opgestallt huet, war den Eta Carinae mat 4m vill méi hell, woubäi sech d''Hellegkeet onregelméisseg verännert huet.
+  text: Wou den Edmond Halley am 17. Joerhonnert säi Stärekatalog opgestallt huet, war den Eta Carinae mat 4m vill méi hell, woubäi sech d'Hellegkeet onregelméisseg verännert huet.
   start: 1232.727
   end: 1242.256
   segments:
@@ -8122,7 +8122,7 @@
   - {lab: n, dur: 0.09}
   - {lab: _, dur: 0.125}
 - prompt: lb-wiki-0082
-  text: Méiglecherweis huet d''Explosioun schonns stattfond.
+  text: Méiglecherweis huet d'Explosioun schonns stattfond.
   start: 1318.683
   end: 1321.092
   segments:
@@ -8339,7 +8339,7 @@
   - {lab: j, dur: 0.015}
   - {lab: _, dur: 0.127}
 - prompt: lb-wiki-0085
-  text: Duerno war et vun 1869 bis 1964 den Theater vun der Stad Lëtzebuerg. Nodeem den neien Theater um Rond-point Schuman fäerdeg war, gouf d''Gebai ëmgebaut.
+  text: Duerno war et vun 1869 bis 1964 den Theater vun der Stad Lëtzebuerg. Nodeem den neien Theater um Rond-point Schuman fäerdeg war, gouf d'Gebai ëmgebaut.
   start: 1357.556
   end: 1367.152
   segments:
@@ -8605,7 +8605,7 @@
   - {lab: t, dur: 0.1}
   - {lab: _, dur: 0.073}
 - prompt: lb-wiki-0087
-  text: Géint 1000 v. Chr. fält d''mykenesch Zivilisatioun zesummen an d''Dorer kommen a Griicheland.
+  text: Géint 1000 v. Chr. fält d'mykenesch Zivilisatioun zesummen an d'Dorer kommen a Griicheland.
   start: 1382.845
   end: 1387.824
   segments:
@@ -8724,7 +8724,7 @@
   - {lab: i, dur: 0.235}
   - {lab: _, dur: 0.085}
 - prompt: lb-wiki-0089
-  text: Nodeems d''Hellegtum fir eng Zäit verlooss ass, gëtt et vum 9. Joerhonnert v. Chr. un nees occupéiert.
+  text: Nodeems d'Hellegtum fir eng Zäit verlooss ass, gëtt et vum 9. Joerhonnert v. Chr. un nees occupéiert.
   start: 1399.928
   end: 1405.201
   segments:
@@ -8803,7 +8803,7 @@
   - {lab: t, dur: 0.16}
   - {lab: _, dur: 0.029}
 - prompt: lb-wiki-0090
-  text: D''benotzte Frequenz ass 118.1 Mhz, fir Noutfäll gëtt déi international Nout-Frequenz 121.5 Mhz benotzt.
+  text: D'benotzte Frequenz ass 118.1 Mhz, fir Noutfäll gëtt déi international Nout-Frequenz 121.5 Mhz benotzt.
   start: 1411.016
   end: 1418.829
   segments:
@@ -8948,7 +8948,7 @@
   - {lab: n, dur: 0.125}
   - {lab: _, dur: 0.069}
 - prompt: lb-wiki-0092
-  text: Tëscht den 11. an dem 15. Jorhonnert hat d''Häre vu Bech hir Residenz am Duerf.
+  text: Tëscht den 11. an dem 15. Jorhonnert hat d'Häre vu Bech hir Residenz am Duerf.
   start: 1432.384
   end: 1436.871
   segments:
@@ -9338,7 +9338,7 @@
   - {lab: g, dur: 0.04}
   - {lab: _, dur: 0.073}
 - prompt: lb-wiki-0095
-  text: 1815 war d''Zuel vun de Stéit op 34 eropgaangen.
+  text: 1815 war d'Zuel vun de Stéit op 34 eropgaangen.
   start: 1507.204
   end: 1510.917
   segments:
@@ -9409,7 +9409,7 @@
   - {lab: n, dur: 0.075}
   - {lab: _, dur: 0.097}
 - prompt: lb-wiki-0096
-  text: 'De Kär vum Duerf ëm d''Ënnescht- an d''Ieweschgaass huet an der 2. Halschecht vum 19. Jh. ugefaangen, sech auszebreeden: de Faubourg an d''Neidierfche si bebaut ginn.'
+  text: "De Kär vum Duerf ëm d'Ënnescht- an d'Ieweschgaass huet an der 2. Halschecht vum 19. Jh. ugefaangen, sech auszebreeden: de Faubourg an d'Neidierfche si bebaut ginn."
   start: 1521.951
   end: 1530.539
   segments:
@@ -9522,7 +9522,7 @@
   - {lab: n, dur: 0.125}
   - {lab: _, dur: 0.068}
 - prompt: lb-wiki-0097
-  text: Ëm 1900 goufen déi éischt Haiser an der Beierwiss gebaut, an a vun den 1960er Joren u koum Äässe mat bäi, an d''Duerf ass laangscht seng Borden gewuess.
+  text: Ëm 1900 goufen déi éischt Haiser an der Beierwiss gebaut, an a vun den 1960er Joren u koum Äässe mat bäi, an d'Duerf ass laangscht seng Borden gewuess.
   start: 1559.632
   end: 1568.638
   segments:
@@ -9827,7 +9827,7 @@
   - {lab: n, dur: 0.18}
   - {lab: _, dur: 0.095}
 - prompt: lb-wiki-0101
-  text: Et ass en ëmgekippte Steebierg deen duerch d''Äerdbeweegungen un d''Uewerfläsch komm sinn.
+  text: Et ass en ëmgekippte Steebierg deen duerch d'Äerdbeweegungen un d'Uewerfläsch komm sinn.
   start: 1611.301
   end: 1615.398
   segments:
@@ -9892,7 +9892,7 @@
   - {lab: n, dur: 0.125}
   - {lab: _, dur: 0.087}
 - prompt: lb-wiki-0102
-  text: En ass méi laang wéi den Uluru un der Äerdouwerfläch, dofir ass en duerch d''Erosioun scho méi ugegraff.
+  text: En ass méi laang wéi den Uluru un der Äerdouwerfläch, dofir ass en duerch d'Erosioun scho méi ugegraff.
   start: 1624.065
   end: 1629.473
   segments:
@@ -9970,7 +9970,7 @@
   - {lab: f, dur: 0.09}
   - {lab: _, dur: 0.089}
 - prompt: lb-wiki-0103
-  text: Si huet eng Fläch vun 708,32 km², dat sinn 9,45% vum Kanareschen Territoire. D''Längt läit bei 42 Kilometer an d''Breet bei 28 Kilometer.
+  text: Si huet eng Fläch vun 708,32 km², dat sinn 9,45% vum Kanareschen Territoire. D'Längt läit bei 42 Kilometer an d'Breet bei 28 Kilometer.
   start: 1637.754
   end: 1649.625
   segments:
@@ -10082,7 +10082,7 @@
   - {lab: R, dur: 0.085}
   - {lab: _, dur: 0.175}
 - prompt: lb-wiki-0104
-  text: D''Organisateure si Studenten. D''Haaptleit sinn d''Studente vum CSE Animatioun déi awer op sämtlech aner Studentenorganisatiounen ziele kënnen. Si ginn och zum Deel vun der Uni ënnerstëtzt.
+  text: D'Organisateure si Studenten. D'Haaptleit sinn d'Studente vum CSE Animatioun déi awer op sämtlech aner Studentenorganisatiounen ziele kënnen. Si ginn och zum Deel vun der Uni ënnerstëtzt.
   start: 1658.623
   end: 1669.387
   segments:
@@ -10361,7 +10361,7 @@
   - {lab: t, dur: 0.195}
   - {lab: _, dur: 0.044}
 - prompt: lb-wiki-0107
-  text: Vu „geschacht“ schwätzt een, wann d''Wopeschëld no dem Prinzip vun engem Schachbrietmuster gedeelt gëtt.
+  text: Vu „geschacht“ schwätzt een, wann d'Wopeschëld no dem Prinzip vun engem Schachbrietmuster gedeelt gëtt.
   start: 1698.258
   end: 1702.986
   segments:
@@ -10635,7 +10635,7 @@
   - {lab: n, dur: 0.09}
   - {lab: _, dur: 0.097}
 - prompt: lb-wiki-0110
-  text: D''Regierung Servais war vum 3. Dezember 1867 bis de 26. Dezember 1874 am Amt. Si gouf véiermol ëmgebilt.
+  text: D'Regierung Servais war vum 3. Dezember 1867 bis de 26. Dezember 1874 am Amt. Si gouf véiermol ëmgebilt.
   start: 1740.741
   end: 1750.533
   segments:
@@ -10849,7 +10849,7 @@
   - {lab: n, dur: 0.155}
   - {lab: _, dur: 0.068}
 - prompt: lb-wiki-0112
-  text: De Canton d''Outreau ass eng franséisch administrativ Andeelung am Arrondissement Boulogne-sur-Mer, am Departement Pas-de-Calais an der Regioun Nord-Pas-de-Calais.
+  text: De Canton d'Outreau ass eng franséisch administrativ Andeelung am Arrondissement Boulogne-sur-Mer, am Departement Pas-de-Calais an der Regioun Nord-Pas-de-Calais.
   start: 1769.386
   end: 1777.253
   segments:
@@ -10966,7 +10966,7 @@
   - {lab: E, dur: 0.165}
   - {lab: _, dur: 0.077}
 - prompt: lb-wiki-0113
-  text: D'' Annabella(Suzanne Georgette Charpentier) war eng franséisch Schauspillerin. Si ass de 14. Juli 1909 zu La Varenne-Saint-Hilaire am Val-de-Marne gebuer an den 18. September 1996 zu Neuilly-sur-Seine gestuerwen.
+  text: D' Annabella(Suzanne Georgette Charpentier) war eng franséisch Schauspillerin. Si ass de 14. Juli 1909 zu La Varenne-Saint-Hilaire am Val-de-Marne gebuer an den 18. September 1996 zu Neuilly-sur-Seine gestuerwen.
   start: 1789.628
   end: 1804.424
   segments:
@@ -11497,7 +11497,7 @@
   - {lab: R, dur: 0.075}
   - {lab: _, dur: 0.148}
 - prompt: lb-wiki-0119
-  text: Den 1. Mäerz 1921 gouf d''Gemeng mat der Croix de guerre 1914-1918 ausgezeechent.
+  text: Den 1. Mäerz 1921 gouf d'Gemeng mat der Croix de guerre 1914-1918 ausgezeechent.
   start: 1871.524
   end: 1878.285
   segments:
@@ -11739,7 +11739,7 @@
   - {lab: s, dur: 0.21}
   - {lab: _, dur: 0.08}
 - prompt: lb-wiki-0122
-  text: Déi bannenzeg Zéif gëtt ''déck Zéif''(hallux) genannt, déi baussenzeg ''kleng Zéif''(digitus minimus).
+  text: Déi bannenzeg Zéif gëtt 'déck Zéif'(hallux) genannt, déi baussenzeg 'kleng Zéif'(digitus minimus).
   start: 1907.14
   end: 1913.163
   segments:
@@ -11853,7 +11853,7 @@
   - {lab: m, dur: 0.085}
   - {lab: _, dur: 0.135}
 - prompt: lb-wiki-0124
-  text: 'Se gi vu bannen no baussen an ''zweet'', ''drëtt''(och: ''mëttelst'') a ''véiert Zéif'' duerchnummeréiert( I, II, III, IV a V). De Mënsch huet 14 Zéiweschanken an all Fouss; déi déck Zéif huet der zwou, déi aner Zéiwen hunn der dräi.'
+  text: "Se gi vu bannen no baussen an 'zweet', 'drëtt'(och: 'mëttelst') a 'véiert Zéif' duerchnummeréiert( I, II, III, IV a V). De Mënsch huet 14 Zéiweschanken an all Fouss; déi déck Zéif huet der zwou, déi aner Zéiwen hunn der dräi."
   start: 1927.271
   end: 1942.718
   segments:
@@ -12016,7 +12016,7 @@
   - {lab: '{:I', dur: 0.11}
   - {lab: _, dur: 0.078}
 - prompt: lb-wiki-0125
-  text: D''Hieselter sinn a ganz Europa doheem, bis op den 68. Breedegrad, an a Klengasien.
+  text: D'Hieselter sinn a ganz Europa doheem, bis op den 68. Breedegrad, an a Klengasien.
   start: 1948.938
   end: 1954.084
   segments:
@@ -12149,7 +12149,7 @@
   - {lab: m, dur: 0.065}
   - {lab: _, dur: 0.124}
 - prompt: lb-wiki-0127
-  text: Et fënnt een s''am Bësch am Ënnerghëlz, um Bord vun de Bëscher, an an Hecken.
+  text: Et fënnt een s'am Bësch am Ënnerghëlz, um Bord vun de Bëscher, an an Hecken.
   start: 1971.425
   end: 1975.764
   segments:
@@ -12718,7 +12718,7 @@
   - {lab: t, dur: 0.1}
   - {lab: _, dur: 0.023}
 - prompt: lb-wiki-0135
-  text: D''Haaptentrée vum Park, an och déi vum Schlass, leien an der Strooss déi vun Heeschdref op Mëlleref a Steesel féiert(rue de Müllendorf).
+  text: D'Haaptentrée vum Park, an och déi vum Schlass, leien an der Strooss déi vun Heeschdref op Mëlleref a Steesel féiert(rue de Müllendorf).
   start: 2074.915
   end: 2082.168
   segments:
@@ -13103,7 +13103,7 @@
   - {lab: n, dur: 0.105}
   - {lab: _, dur: 0.12}
 - prompt: lb-wiki-0141
-  text: 'D''Arrondissement setzt sech aus 23 Kantonen zesummen:'
+  text: "D'Arrondissement setzt sech aus 23 Kantonen zesummen:"
   start: 2128.978
   end: 2132.125
   segments:
@@ -13164,7 +13164,7 @@
   - {lab: n, dur: 0.115}
   - {lab: _, dur: 0.087}
 - prompt: lb-wiki-0142
-  text: D''Grënnung vun der Universitéit vu Bourges am Joer 1463 duerch de Louis XI. huet aus aus der Stad eng renomméiert intellektuell Plaz gemaach.
+  text: D'Grënnung vun der Universitéit vu Bourges am Joer 1463 duerch de Louis XI. huet aus aus der Stad eng renomméiert intellektuell Plaz gemaach.
   start: 2140.86
   end: 2148.801
   segments:
@@ -13420,7 +13420,7 @@
   - {lab: R, dur: 0.015}
   - {lab: _, dur: 0.149}
 - prompt: lb-wiki-0145
-  text: Hien huet do seng Institution chrétienn publizéiert, a seng Reformiddien hu sech am ganze Land breet gemaach, wat e puer Joer méi spéit zu de Reliounskricher gefouert huet, déi d''Geigend vu Bourges an e Schluechtfeld verwandelt hunn.
+  text: Hien huet do seng Institution chrétienn publizéiert, a seng Reformiddien hu sech am ganze Land breet gemaach, wat e puer Joer méi spéit zu de Reliounskricher gefouert huet, déi d'Geigend vu Bourges an e Schluechtfeld verwandelt hunn.
   start: 2185.339
   end: 2196.398
   segments:
@@ -14029,7 +14029,7 @@
   - {lab: s, dur: 0.19}
   - {lab: _, dur: 0.086}
 - prompt: lb-wiki-0150
-  text: Duerch d''AOC gëtt ënner anerem festgeluecht datt dee Kéis nëmmen däerf mat Mëllech gemaach ginn déi vum Territoire vun de Gemenge vum Aubrac kënnt.
+  text: Duerch d'AOC gëtt ënner anerem festgeluecht datt dee Kéis nëmmen däerf mat Mëllech gemaach ginn déi vum Territoire vun de Gemenge vum Aubrac kënnt.
   start: 2264.912
   end: 2272.087
   segments:
@@ -14435,7 +14435,7 @@
   - {lab: I, dur: 0.09}
   - {lab: _, dur: 0.088}
 - prompt: lb-wiki-0153
-  text: D''Qualitéit vum Kéis huet an deene Joren duerno ganz vill gelidden.
+  text: D'Qualitéit vum Kéis huet an deene Joren duerno ganz vill gelidden.
   start: 2338.884
   end: 2342.162
   segments:
@@ -14636,7 +14636,7 @@
   - {lab: t, dur: 0.155}
   - {lab: _, dur: 0.107}
 - prompt: lb-wiki-0156
-  text: D''Festung Sommo alto beim Passo Sommo op enger Héicht vu 1614 m huet op de Val Orsara an de Passo Coe opgepasst.
+  text: D'Festung Sommo alto beim Passo Sommo op enger Héicht vu 1614 m huet op de Val Orsara an de Passo Coe opgepasst.
   start: 2371.23
   end: 2379.179
   segments:
@@ -15128,7 +15128,7 @@
   - {lab: p, dur: 0.18}
   - {lab: _, dur: 0.087}
 - prompt: lb-wiki-0161
-  text: De Conrad Massard huet d''Féierung vum Sall un de Félix Nittel-Gaasch a seng Fra ofginn. Déi Zwee haten en Usträicherbetrib am Nopeschhaus. D''Madame Nittel war d''Meedchen aus dem éischte Bestiedniss vun der Catherine Sturm-Muller.
+  text: De Conrad Massard huet d'Féierung vum Sall un de Félix Nittel-Gaasch a seng Fra ofginn. Déi Zwee haten en Usträicherbetrib am Nopeschhaus. D'Madame Nittel war d'Meedchen aus dem éischte Bestiedniss vun der Catherine Sturm-Muller.
   start: 2481.772
   end: 2493.212
   segments:
@@ -16096,7 +16096,7 @@
   - {lab: t, dur: 0.135}
   - {lab: _, dur: 0.074}
 - prompt: lb-wiki-0173
-  text: Si huet spéider den Zagreus an d''Welt gesat, deen dem Zeus säin Nofolger sollt ginn.
+  text: Si huet spéider den Zagreus an d'Welt gesat, deen dem Zeus säin Nofolger sollt ginn.
   start: 2667.564
   end: 2671.592
   segments:
@@ -16239,7 +16239,7 @@
   - {lab: n, dur: 0.14}
   - {lab: _, dur: 0.091}
 - prompt: lb-wiki-0175
-  text: Säi Brudder Hades awer huet sech an d''Fra verléift an huet den Zeus gefrot fir d''Kore ze kréien.
+  text: Säi Brudder Hades awer huet sech an d'Fra verléift an huet den Zeus gefrot fir d'Kore ze kréien.
   start: 2686.331
   end: 2691.059
   segments:
@@ -16314,7 +16314,7 @@
   - {lab: n, dur: 0.145}
   - {lab: _, dur: 0.088}
 - prompt: lb-wiki-0176
-  text: Well deen awer wousst datt d''Kore net fräiwëlleg a seng däischter Welt géif matgoen, huet den Zeus sech guer net dozou geäussert, wat den Hades als Zoustëmmung ausgeluecht huet.
+  text: Well deen awer wousst datt d'Kore net fräiwëlleg a seng däischter Welt géif matgoen, huet den Zeus sech guer net dozou geäussert, wat den Hades als Zoustëmmung ausgeluecht huet.
   start: 2709.162
   end: 2718
   segments:
@@ -16447,7 +16447,7 @@
   - {lab: E, dur: 0.12}
   - {lab: _, dur: 0.033}
 - prompt: lb-wiki-0177
-  text: Wéi d''Kore an der Nysa-Ebene Blumme gepléckt huet, ass den Hades aus der Ënnerwelt eropkomm an huet si entféiert.
+  text: Wéi d'Kore an der Nysa-Ebene Blumme gepléckt huet, ass den Hades aus der Ënnerwelt eropkomm an huet si entféiert.
   start: 2732.538
   end: 2737.934
   segments:
@@ -16581,7 +16581,7 @@
   - {lab: t, dur: 0.13}
   - {lab: _, dur: 0.061}
 - prompt: lb-wiki-0179
-  text: D''Kore huet sech an hiert Schicksal erginn an ass vun do u Persephone genannt ginn.
+  text: D'Kore huet sech an hiert Schicksal erginn an ass vun do u Persephone genannt ginn.
   start: 2750.727
   end: 2754.808
   segments:
@@ -16640,7 +16640,7 @@
   - {lab: n, dur: 0.115}
   - {lab: _, dur: 0.111}
 - prompt: lb-wiki-0180
-  text: Den Hades huet d''Persephone zu senger Fra gemaach a si hunn zesummen iwwert d''Ënnerwelt regéiert.
+  text: Den Hades huet d'Persephone zu senger Fra gemaach a si hunn zesummen iwwert d'Ënnerwelt regéiert.
   start: 2759.462
   end: 2764.183
   segments:
@@ -16837,7 +16837,7 @@
   - {lab: t, dur: 0.13}
   - {lab: _, dur: 0.052}
 - prompt: lb-wiki-0182
-  text: D''Demeter huet dunn den Olymp verlooss a sech an hirer Trauer zeréckgezunn.
+  text: D'Demeter huet dunn den Olymp verlooss a sech an hirer Trauer zeréckgezunn.
   start: 2783.675
   end: 2787.338
   segments:
@@ -16899,7 +16899,7 @@
   - {lab: n, dur: 0.17}
   - {lab: _, dur: 0.118}
 - prompt: lb-wiki-0183
-  text: Dunn ass all Fruchtbarkeet vun der Äerd verschwonnen, d''Planze sinn agaang an d''Mënschen an Déieren hunn Honger gelidden.
+  text: Dunn ass all Fruchtbarkeet vun der Äerd verschwonnen, d'Planze sinn agaang an d'Mënschen an Déieren hunn Honger gelidden.
   start: 2793.652
   end: 2799.134
   segments:
@@ -16989,7 +16989,7 @@
   - {lab: n, dur: 0.115}
   - {lab: _, dur: 0.102}
 - prompt: lb-wiki-0184
-  text: Den Zeus huet ëmsoss versicht seng Fra ëmzestëmmen an huet sech schliisslech genéidegt gesinn, säi Brudder ze zwéngen d''Persephone ërem fräi ze ginn.
+  text: Den Zeus huet ëmsoss versicht seng Fra ëmzestëmmen an huet sech schliisslech genéidegt gesinn, säi Brudder ze zwéngen d'Persephone ërem fräi ze ginn.
   start: 2805.33
   end: 2812.394
   segments:
@@ -17103,7 +17103,7 @@
   - {lab: n, dur: 0.095}
   - {lab: _, dur: 0.054}
 - prompt: lb-wiki-0185
-  text: Zwar huet den Hades gefollegt, mä en huet dem Persephone awer e Granataapel z''iesse ginn, dee verhënnert huet datt si fir ëmmer zréck bei déi Lieweg kéint goen.
+  text: Zwar huet den Hades gefollegt, mä en huet dem Persephone awer e Granataapel z'iesse ginn, dee verhënnert huet datt si fir ëmmer zréck bei déi Lieweg kéint goen.
   start: 2833.975
   end: 2841.494
   segments:
@@ -17221,7 +17221,7 @@
   - {lab: n, dur: 0.1}
   - {lab: _, dur: 0.094}
 - prompt: lb-wiki-0186
-  text: Duerfir ass dunn d''Persephone zwee Drëttel vum Joer bei hirer Mamm op der Äerd bliwwen.
+  text: Duerfir ass dunn d'Persephone zwee Drëttel vum Joer bei hirer Mamm op der Äerd bliwwen.
   start: 2846.51
   end: 2850.406
   segments:
@@ -17759,7 +17759,7 @@
   - {lab: n, dur: 0.055}
   - {lab: _, dur: 0.117}
 - prompt: lb-wiki-0195
-  text: E Gespan sinn d''Zuchdéieren, déi e Gefier zéien. Den Ausdrock gëtt och gebraucht fir dat Ganzt.
+  text: E Gespan sinn d'Zuchdéieren, déi e Gefier zéien. Den Ausdrock gëtt och gebraucht fir dat Ganzt.
   start: 2930.508
   end: 2935.548
   segments:
@@ -17927,7 +17927,7 @@
   - {lab: n, dur: 0.155}
   - {lab: _, dur: 0.092}
 - prompt: lb-wiki-0197
-  text: Op den Uwänner vun der Sir leien do lénks d''Manternacherfiels a riets de Kaleberg.
+  text: Op den Uwänner vun der Sir leien do lénks d'Manternacherfiels a riets de Kaleberg.
   start: 2957.646
   end: 2962.239
   segments:
@@ -18738,7 +18738,7 @@
   - {lab: n, dur: 0.115}
   - {lab: _, dur: 0.103}
 - prompt: lb-wiki-0205
-  text: D''Frankfurter Nationalversammlung, déi vum 18. Mee 1848 bis zum 31. Mee 1849 an der Paulskirche zu Frankfurt débattéiert huet, war dat éischte fräi gewielte Parlament fir ganz Däitschland.
+  text: D'Frankfurter Nationalversammlung, déi vum 18. Mee 1848 bis zum 31. Mee 1849 an der Paulskirche zu Frankfurt débattéiert huet, war dat éischte fräi gewielte Parlament fir ganz Däitschland.
   start: 3089.437
   end: 3102.463
   segments:
@@ -18944,7 +18944,7 @@
   - {lab: t, dur: 0.075}
   - {lab: _, dur: 0.051}
 - prompt: lb-wiki-0206
-  text: Hien ass an den Déngscht vum Charles V., Kinnek vu Frankräich agetrueden, an d''Hänn vun den Englänner gefall an huet sech, wärend senger Gefaangeschaft, 1380 mat der Maud Holland(† 1392) bestuet, der Witfra vum Hugues vu Courtenay, an der Duechter vum Thomas Holland an der Joan vu Kent.
+  text: Hien ass an den Déngscht vum Charles V., Kinnek vu Frankräich agetrueden, an d'Hänn vun den Englänner gefall an huet sech, wärend senger Gefaangeschaft, 1380 mat der Maud Holland(† 1392) bestuet, der Witfra vum Hugues vu Courtenay, an der Duechter vum Thomas Holland an der Joan vu Kent.
   start: 3128.495
   end: 3147.478
   segments:
@@ -19180,7 +19180,7 @@
   - {lab: t, dur: 0.135}
   - {lab: _, dur: 0.074}
 - prompt: lb-wiki-0207
-  text: Si kruten ee Meedchen, d'' Jeanne(† 1407), dat den Antoine vu Brabant(1384-1415) bestuet huet, Herzog vu Brabant a vu Limburg.
+  text: Si kruten ee Meedchen, d' Jeanne(† 1407), dat den Antoine vu Brabant(1384-1415) bestuet huet, Herzog vu Brabant a vu Limburg.
   start: 3156.083
   end: 3167.081
   segments:
@@ -19379,7 +19379,7 @@
   - {lab: n, dur: 0.075}
   - {lab: _, dur: 0.066}
 - prompt: lb-wiki-0209
-  text: Vum Schouljoer 1835/36 u huet de Linden och als Professer Coursen an der Iechternacher Mëttelschoul bzw. dem Progymnase ginn, bis den 19. Abrëll 1842, wou hien seng ''démission honorable'' krut.
+  text: Vum Schouljoer 1835/36 u huet de Linden och als Professer Coursen an der Iechternacher Mëttelschoul bzw. dem Progymnase ginn, bis den 19. Abrëll 1842, wou hien seng 'démission honorable' krut.
   start: 3192.608
   end: 3206.359
   segments:
@@ -19587,7 +19587,7 @@
   - {lab: R, dur: 0.105}
   - {lab: _, dur: 0.109}
 - prompt: lb-wiki-0211
-  text: D''Commune vu Paräis(1789-1795) war den Numm deen de revolutionäre Gouvernement vu Paräis sech nom Stuerm op d''Bastille(14. Juli 1789) ginn huet.
+  text: D'Commune vu Paräis(1789-1795) war den Numm deen de revolutionäre Gouvernement vu Paräis sech nom Stuerm op d'Bastille(14. Juli 1789) ginn huet.
   start: 3226.601
   end: 3238.68
   segments:
@@ -19715,7 +19715,7 @@
   - {lab: E, dur: 0.115}
   - {lab: _, dur: 0.084}
 - prompt: lb-wiki-0212
-  text: Den éischte Buergermeeschter war de Jean-Sylvain Bailly an d''Reunioune waren am Hôtel de Ville.
+  text: Den éischte Buergermeeschter war de Jean-Sylvain Bailly an d'Reunioune waren am Hôtel de Ville.
   start: 3246.691
   end: 3251.19
   segments:
@@ -19787,7 +19787,7 @@
   - {lab: l, dur: 0.025}
   - {lab: _, dur: 0.059}
 - prompt: lb-wiki-0213
-  text: 'D''Schluecht beim Trasimeno-Séi,(ital. lago trasimeno, lat.:trasimenus lagus) war een Evenement am Zweete Punesche Krich bei dem de karthagesche Feldhär Hannibal d''Réimer geschloen huet.'
+  text: "D'Schluecht beim Trasimeno-Séi,(ital. lago trasimeno, lat.:trasimenus lagus) war een Evenement am Zweete Punesche Krich bei dem de karthagesche Feldhär Hannibal d'Réimer geschloen huet."
   start: 3283.511
   end: 3294.89
   segments:
@@ -19924,7 +19924,7 @@
   - {lab: E, dur: 0.105}
   - {lab: _, dur: 0.109}
 - prompt: lb-wiki-0214
-  text: Zu der Schluecht koum et am Fréijoer 217. D''Eenzelheete vun der Schluecht sinn eis duerch d''antik réimesch Schrëftsteller Titus Livius a Polybios bekannt.
+  text: Zu der Schluecht koum et am Fréijoer 217. D'Eenzelheete vun der Schluecht sinn eis duerch d'antik réimesch Schrëftsteller Titus Livius a Polybios bekannt.
   start: 3307.871
   end: 3317.11
   segments:
@@ -20631,7 +20631,7 @@
   - {lab: l, dur: 0.08}
   - {lab: _, dur: 0.108}
 - prompt: lb-wiki-0222
-  text: An de 1950er-Joren hat sech den Dr. Baker och reng astronomeschen Themen zougedréit a mécht Publikatiounen iwwer Schmidt-Cassegrain-Teleskopen an eng Super Schmidt-Kamera fir d''Observatioun vu Meteoren.
+  text: An de 1950er-Joren hat sech den Dr. Baker och reng astronomeschen Themen zougedréit a mécht Publikatiounen iwwer Schmidt-Cassegrain-Teleskopen an eng Super Schmidt-Kamera fir d'Observatioun vu Meteoren.
   start: 3459.117
   end: 3470.803
   segments:
@@ -20790,7 +20790,7 @@
   - {lab: n, dur: 0.045}
   - {lab: _, dur: 0.076}
 - prompt: lb-wiki-0223
-  text: Zesummen mam Mechaniker Joseph Nunn entwéckelt hien 1957 d''Baker-Nunn-Kamera, dären méiachsegt System éischtmols de Satellitten nogefouert sollt ginn.
+  text: Zesummen mam Mechaniker Joseph Nunn entwéckelt hien 1957 d'Baker-Nunn-Kamera, dären méiachsegt System éischtmols de Satellitten nogefouert sollt ginn.
   start: 3493.774
   end: 3502.927
   segments:
@@ -20935,7 +20935,7 @@
   - {lab: n, dur: 0.11}
   - {lab: _, dur: 0.059}
 - prompt: lb-wiki-0224
-  text: D''Optik entstong mat Computer-Ënnerstëtzung, wat deemols eng Pionéieraarbecht war.
+  text: D'Optik entstong mat Computer-Ënnerstëtzung, wat deemols eng Pionéieraarbecht war.
   start: 3509.627
   end: 3513.925
   segments:
@@ -21089,7 +21089,7 @@
   - {lab: m, dur: 0.09}
   - {lab: _, dur: 0.073}
 - prompt: lb-wiki-0227
-  text: D''Plage Bahia de la Plata ass 8 km laang. Fësch ass eng vun de Spezialitéiten grad ewéi dee fir dës Regioun typesche Sherry.
+  text: D'Plage Bahia de la Plata ass 8 km laang. Fësch ass eng vun de Spezialitéiten grad ewéi dee fir dës Regioun typesche Sherry.
   start: 3548.815
   end: 3555.478
   segments:
@@ -21264,7 +21264,7 @@
   - {lab: R, dur: 0.08}
   - {lab: _, dur: 0.077}
 - prompt: lb-wiki-0229
-  text: D''Gemeng Quijorna huet 1.321 Awunner op enger Fläch vun 26 km².
+  text: D'Gemeng Quijorna huet 1.321 Awunner op enger Fläch vun 26 km².
   start: 3583.041
   end: 3588.18
   segments:
@@ -21393,7 +21393,7 @@
   - {lab: R, dur: 0.135}
   - {lab: _, dur: 0.031}
 - prompt: lb-wiki-0231
-  text: De 15. Oktober 1796 hu sech d''Territoire südlech vum Po,(Modena, Bologna, Ferrara a Reggio) an enger cispadanescher Konfederatioun zesummefonnt, déi inoffiziell vum Napoléonënnerstëtzt gouf, well hien huet d''Situatioun an Italien misse stabiliséieren, fir nei Truppen op d''Been ze stellen, an Éisträich unzegräifen.
+  text: De 15. Oktober 1796 hu sech d'Territoire südlech vum Po,(Modena, Bologna, Ferrara a Reggio) an enger cispadanescher Konfederatioun zesummefonnt, déi inoffiziell vum Napoléonënnerstëtzt gouf, well hien huet d'Situatioun an Italien misse stabiliséieren, fir nei Truppen op d'Been ze stellen, an Éisträich unzegräifen.
   start: 3636.391
   end: 3655.538
   segments:
@@ -21785,7 +21785,7 @@
   - {lab: n, dur: 0.085}
   - {lab: _, dur: 0.132}
 - prompt: lb-wiki-0233
-  text: Schonn den 30. Januar 1797 huet sech den Territoire vun der Republik op Garfagnana erweidert, den 19. Februar koum d''Romagna derbäi.
+  text: Schonn den 30. Januar 1797 huet sech den Territoire vun der Republik op Garfagnana erweidert, den 19. Februar koum d'Romagna derbäi.
   start: 3707.56
   end: 3716.64
   segments:
@@ -22039,7 +22039,7 @@
   - {lab: i, dur: 0.21}
   - {lab: _, dur: 0.078}
 - prompt: lb-wiki-0235
-  text: Um Ufank vum 4. Joerhonnert koum den Agesilaos op den Troun, deen eng dynamesch Politik bedriwwen huet, a virun allem op d''Gefill vun Panhellenismus gebaut huet.
+  text: Um Ufank vum 4. Joerhonnert koum den Agesilaos op den Troun, deen eng dynamesch Politik bedriwwen huet, a virun allem op d'Gefill vun Panhellenismus gebaut huet.
   start: 3742.008
   end: 3750.965
   segments:
@@ -22168,7 +22168,7 @@
   - {lab: E, dur: 0.225}
   - {lab: _, dur: 0.027}
 - prompt: lb-wiki-0236
-  text: Hien huet eng Campagne géint d''Perser ugefaangen, déi zwar erfollegräich war, mä och eng persesch Reaktioun mat sech gezunn huet.
+  text: Hien huet eng Campagne géint d'Perser ugefaangen, déi zwar erfollegräich war, mä och eng persesch Reaktioun mat sech gezunn huet.
   start: 3756.423
   end: 3762.495
   segments:
@@ -22264,7 +22264,7 @@
   - {lab: E, dur: 0.105}
   - {lab: _, dur: 0.083}
 - prompt: lb-wiki-0237
-  text: D''Persescht Gold ass op Athen komm, sou datt si hir Flott nees nei opbaue konnten, genee wéi hir Maueren déi 404 zerstéiert gi waren.
+  text: D'Persescht Gold ass op Athen komm, sou datt si hir Flott nees nei opbaue konnten, genee wéi hir Maueren déi 404 zerstéiert gi waren.
   start: 3768.539
   end: 3775.705
   segments:
@@ -22379,7 +22379,7 @@
   - {lab: n, dur: 0.085}
   - {lab: _, dur: 0.132}
 - prompt: lb-wiki-0238
-  text: 394 hunn d''spartanesch Autoritéiten den Agesilaos nees zeréck op Sparta geholl, an et koum zu engem Guerillakrich tëscht Sparta a Korinth, wat vun Athen ënnerstëtzt gouf.
+  text: 394 hunn d'spartanesch Autoritéiten den Agesilaos nees zeréck op Sparta geholl, an et koum zu engem Guerillakrich tëscht Sparta a Korinth, wat vun Athen ënnerstëtzt gouf.
   start: 3784.072
   end: 3794.128
   segments:
@@ -22533,7 +22533,7 @@
   - {lab: f, dur: 0.145}
   - {lab: _, dur: 0.135}
 - prompt: lb-wiki-0239
-  text: D''Spartaner ware sech bewosst, datt si net op zwee Fronte kämpfe konnten, an hu sech mat de Perser alliéiert.
+  text: D'Spartaner ware sech bewosst, datt si net op zwee Fronte kämpfe konnten, an hu sech mat de Perser alliéiert.
   start: 3798.75
   end: 3803.921
   segments:
@@ -22615,7 +22615,7 @@
   - {lab: t, dur: 0.125}
   - {lab: _, dur: 0.066}
 - prompt: lb-wiki-0240
-  text: Den 1. Januar 2002, Punkt Hallefnuecht, goufen och d''Billjetën an den Ëmlaf bruecht.
+  text: Den 1. Januar 2002, Punkt Hallefnuecht, goufen och d'Billjetën an den Ëmlaf bruecht.
   start: 3810.215
   end: 3814.881
   segments:
@@ -23136,7 +23136,7 @@
   - {lab: t, dur: 0.065}
   - {lab: _, dur: 0.019}
 - prompt: lb-wiki-0244
-  text: D''Schäiner a Frange behalen awer hire Wäert.
+  text: D'Schäiner a Frange behalen awer hire Wäert.
   start: 3885.952
   end: 3888.141
   segments:
@@ -23517,7 +23517,7 @@
   - {lab: t, dur: 0.09}
   - {lab: _, dur: 0.07}
 - prompt: lb-wiki-0249
-  text: De Merga(och ''Falx Italica'' oder ''Marrha'') ass de Numm vum Stär 38 Bootis. De Merga huet eng visuell Magnitude vu +5,74 mag a gehéiert zu der Spektralklass F7IVw. D''Distanz zu eiser Sonn ass ronn 153 Liichtjoer.
+  text: De Merga(och 'Falx Italica' oder 'Marrha') ass de Numm vum Stär 38 Bootis. De Merga huet eng visuell Magnitude vu +5,74 mag a gehéiert zu der Spektralklass F7IVw. D'Distanz zu eiser Sonn ass ronn 153 Liichtjoer.
   start: 3945.018
   end: 3962.358
   segments:
@@ -23843,7 +23843,7 @@
   - {lab: t, dur: 0.125}
   - {lab: _, dur: 0.045}
 - prompt: lb-wiki-0253
-  text: Dofir versammele sech d''Gëtter an souguer de Vischnu, de Meeschter vun der Welt ass mat derbäi.
+  text: Dofir versammele sech d'Gëtter an souguer de Vischnu, de Meeschter vun der Welt ass mat derbäi.
   start: 3998.06
   end: 4002.333
   segments:
@@ -24034,7 +24034,7 @@
   - {lab: n, dur: 0.125}
   - {lab: _, dur: 0.026}
 - prompt: lb-wiki-0255
-  text: Da veschwënnt de Vischnu an e prächtecht Wiesen, ''rout ugedoen, immens staark, mat engem roude Mond an enger Stëmm ewéi eng deck Tromm'' spréngt aus dem Afferfeier, ''e Baart ewéi de Pelz vun engem Léiw, g''Gréisst vun engem Bierg''.
+  text: Da veschwënnt de Vischnu an e prächtecht Wiesen, 'rout ugedoen, immens staark, mat engem roude Mond an enger Stëmm ewéi eng deck Tromm' spréngt aus dem Afferfeier, 'e Baart ewéi de Pelz vun engem Léiw, g'Gréisst vun engem Bierg'.
   start: 4032.323
   end: 4044.378
   segments:
@@ -24195,7 +24195,7 @@
   - {lab: g, dur: 0.08}
   - {lab: _, dur: 0.03}
 - prompt: lb-wiki-0256
-  text: An der Hand hat dat gëttlecht Wiesen eng gëlle Schossel mat engem Deckel aus Sëlwer, an an der Schossel war Räis mat ''gëttlecher Mëllech''.
+  text: An der Hand hat dat gëttlecht Wiesen eng gëlle Schossel mat engem Deckel aus Sëlwer, an an der Schossel war Räis mat 'gëttlecher Mëllech'.
   start: 4051.52
   end: 4058.092
   segments:
@@ -24290,7 +24290,7 @@
   - {lab: s, dur: 0.14}
   - {lab: _, dur: 0.117}
 - prompt: lb-wiki-0257
-  text: Déi huet de Kinnek da senge Fraen z''iesse ginn, déi alleguer schwanger gi sinn.
+  text: Déi huet de Kinnek da senge Fraen z'iesse ginn, déi alleguer schwanger gi sinn.
   start: 4062.407
   end: 4065.738
   segments:
@@ -24346,7 +24346,7 @@
   - {lab: n, dur: 0.155}
   - {lab: _, dur: 0.041}
 - prompt: lb-wiki-0258
-  text: D''Kinnigin Kaushalya gëtt d''Mamm vum Rama, der Kaikeyi hire Jong ass de Bharatha, an d''Sumitra kritt der zwéin, de Laksmana an de Schatrugna.
+  text: D'Kinnigin Kaushalya gëtt d'Mamm vum Rama, der Kaikeyi hire Jong ass de Bharatha, an d'Sumitra kritt der zwéin, de Laksmana an de Schatrugna.
   start: 4094.47
   end: 4103.365
   segments:
@@ -24852,7 +24852,7 @@
   - {lab: t, dur: 0.125}
   - {lab: _, dur: 0.037}
 - prompt: lb-wiki-0263
-  text: 'D''Levana(vum lat.: levare = hiewen) ass d''réimesch Gëttin vu de frësch gebuerene Puppelcher. De Numm geet op de réimesche Brauch zréck datt de Papp d''Kand just no der Gebuert an d''Luucht hieft an un d''Broscht vun der Mamm leet.'
+  text: "D'Levana(vum lat.: levare = hiewen) ass d'réimesch Gëttin vu de frësch gebuerene Puppelcher. De Numm geet op de réimesche Brauch zréck datt de Papp d'Kand just no der Gebuert an d'Luucht hieft an un d'Broscht vun der Mamm leet."
   start: 4163.672
   end: 4176.649
   segments:
@@ -25192,7 +25192,7 @@
   - {lab: 'e:', dur: 0.14}
   - {lab: _, dur: 0.096}
 - prompt: lb-wiki-0266
-  text: 'D''Pays d''Outremeuse hunn aus de Gebidder ronderëm Dalhem, Valkenburg(fr.: Fauquemont) an Herzogenrath(nl.: s''Hertogenrade; fr.: Rolduc) bestanen.'
+  text: "D'Pays d'Outremeuse hunn aus de Gebidder ronderëm Dalhem, Valkenburg(fr.: Fauquemont) an Herzogenrath(nl.: s'Hertogenrade; fr.: Rolduc) bestanen."
   start: 4225.61
   end: 4236.484
   segments:
@@ -25307,7 +25307,7 @@
   - {lab: n, dur: 0.12}
   - {lab: _, dur: 0.105}
 - prompt: lb-wiki-0267
-  text: Si hunn, am Laf vun der Zäit, d''Schicksal vun der Grofschaft a spéiderem Herzogtum Limburg, gedeelt, respektiv vum Herzogtum Brabant.
+  text: Si hunn, am Laf vun der Zäit, d'Schicksal vun der Grofschaft a spéiderem Herzogtum Limburg, gedeelt, respektiv vum Herzogtum Brabant.
   start: 4242.004
   end: 4248.494
   segments:
@@ -25414,7 +25414,7 @@
   - {lab: a~, dur: 0.015}
   - {lab: _, dur: 0.03}
 - prompt: lb-wiki-0268
-  text: D''Nummer 4, déi am Januar 1989 erauskoum, war eng Spezialnummer ronderëm d''Franséisch Revolutioun.
+  text: D'Nummer 4, déi am Januar 1989 erauskoum, war eng Spezialnummer ronderëm d'Franséisch Revolutioun.
   start: 4253.411
   end: 4259.603
   segments:
@@ -25523,7 +25523,7 @@
   - {lab: n, dur: 0.12}
   - {lab: _, dur: 0.026}
 - prompt: lb-wiki-0269
-  text: An d''Nummer 5, déi am Dezember 1989 erauskoum, huet sech exklusiv mam Enseignement secondaire 1939-1989 beschäftegt.
+  text: An d'Nummer 5, déi am Dezember 1989 erauskoum, huet sech exklusiv mam Enseignement secondaire 1939-1989 beschäftegt.
   start: 4265.958
   end: 4275.345
   segments:
@@ -25631,7 +25631,7 @@
   - {lab: t, dur: 0.02}
   - {lab: _, dur: 0.032}
 - prompt: lb-wiki-0270
-  text: Dës Nr. 5 hat iwwregens méi e grousst Format ewéi déi ''normal'' Nummeren.
+  text: Dës Nr. 5 hat iwwregens méi e grousst Format ewéi déi 'normal' Nummeren.
   start: 4279.082
   end: 4283.053
   segments:
@@ -26612,7 +26612,7 @@
   - {lab: l, dur: 0.045}
   - {lab: _, dur: 0.076}
 - prompt: lb-wiki-0278
-  text: A voller Bléi steet d''Motett géint d''Enn vum 13. an am 14. Joerhonnert.
+  text: A voller Bléi steet d'Motett géint d'Enn vum 13. an am 14. Joerhonnert.
   start: 4404.756
   end: 4408.833
   segments:
@@ -27225,7 +27225,7 @@
   - {lab: E, dur: 0.105}
   - {lab: _, dur: 0.043}
 - prompt: lb-wiki-0286
-  text: 'Ëm 21:30 Auer ass en an d''Bett gaangen.'
+  text: "Ëm 21:30 Auer ass en an d'Bett gaangen."
   start: 4510.529
   end: 4513.012
   segments:
@@ -27555,7 +27555,7 @@
   - {lab: t, dur: 0.11}
   - {lab: _, dur: 0.041}
 - prompt: lb-wiki-0291
-  text: An deem waren och fir d''éischt d''Moosse vun de Schleisen an de Gabarit vum Kanal festghale ginn.
+  text: An deem waren och fir d'éischt d'Moosse vun de Schleisen an de Gabarit vum Kanal festghale ginn.
   start: 4579.006
   end: 4583.825
   segments:
@@ -27625,7 +27625,7 @@
   - {lab: n, dur: 0.09}
   - {lab: _, dur: 0.019}
 - prompt: lb-wiki-0292
-  text: Sou sollt d''Breet um ieweschte Wasserniveau 21 Fouss(6,82 m) sinn, an den Déifgank 7,5 Fouss(2,44 m). D''Schleise sollten 3,90 × 27,03 Meter hunn an d''Breet fir den Tunnel war op 5,85 m festgeluecht.
+  text: Sou sollt d'Breet um ieweschte Wasserniveau 21 Fouss(6,82 m) sinn, an den Déifgank 7,5 Fouss(2,44 m). D'Schleise sollten 3,90 × 27,03 Meter hunn an d'Breet fir den Tunnel war op 5,85 m festgeluecht.
   start: 4611.266
   end: 4628.569
   segments:
@@ -27755,7 +27755,7 @@
   - {lab: t, dur: 0.065}
   - {lab: _, dur: 8.654}
 - prompt: lb-wiki-0293
-  text: De Canton d''Eu ass eng franséisch administrativ Andeelung am Arrondissement Dieppe, am Departement Seine-Maritime an der Regioun Haute-Normandie.
+  text: De Canton d'Eu ass eng franséisch administrativ Andeelung am Arrondissement Dieppe, am Departement Seine-Maritime an der Regioun Haute-Normandie.
   start: 4635.269
   end: 4642.37
   segments:
@@ -28229,7 +28229,7 @@
   - {lab: l, dur: 0.015}
   - {lab: _, dur: 0.19}
 - prompt: lb-wiki-0299
-  text: Nodeems d''Perser d''Schluecht vu Marathon(490 v. Chr.) verluer haten, hat de persesche Grousskinnek Dareios I. nach ëmmer d''Intentioun, déi griichesch Poleis an d''persescht Räich anzeglidderen.
+  text: Nodeems d'Perser d'Schluecht vu Marathon(490 v. Chr.) verluer haten, hat de persesche Grousskinnek Dareios I. nach ëmmer d'Intentioun, déi griichesch Poleis an d'persescht Räich anzeglidderen.
   start: 4709.826
   end: 4721.267
   segments:
@@ -28382,7 +28382,7 @@
   - {lab: n, dur: 0.095}
   - {lab: _, dur: 0.08}
 - prompt: lb-wiki-0300
-  text: Den Zweck vun der Expansioun sollt zum Engen d''persesch Staatskeess mat dem Verméige vun de Griiche fëllen, a gläichzäiteg och e Sprangbried fir weider Eruewerungen am Weste sinn.
+  text: Den Zweck vun der Expansioun sollt zum Engen d'persesch Staatskeess mat dem Verméige vun de Griiche fëllen, a gläichzäiteg och e Sprangbried fir weider Eruewerungen am Weste sinn.
   start: 4729.638
   end: 4738.546
   segments:
@@ -28593,7 +28593,7 @@
   - {lab: n, dur: 0.155}
   - {lab: _, dur: 0.093}
 - prompt: lb-wiki-0302
-  text: 'D''Vereent Natiounen hu 6 Haaptorganer:'
+  text: "D'Vereent Natiounen hu 6 Haaptorganer:"
   start: 4758.984
   end: 4761.135
   segments:
@@ -28865,7 +28865,7 @@
   - {lab: g, dur: 0.16}
   - {lab: _, dur: 0.053}
 - prompt: lb-wiki-0305
-  text: D''Kiewerlecken a.s.b.l. sinn eng Scoutsgrupp vu Stroossen. Si goufen 1978 gegrënnt. Se sinn un d''FNEL affiliéiert an haten 2010 ronn 150 Memberen.
+  text: D'Kiewerlecken a.s.b.l. sinn eng Scoutsgrupp vu Stroossen. Si goufen 1978 gegrënnt. Se sinn un d'FNEL affiliéiert an haten 2010 ronn 150 Memberen.
   start: 4820.299
   end: 4830.448
   segments:
@@ -29861,7 +29861,7 @@
   - {lab: '@', dur: 0.02}
   - {lab: _, dur: 0.086}
 - prompt: lb-wiki-0317
-  text: De Canton de Cergy-Sud ass eng franséisch administrativ Andeelung am Arrondissement Pontoise, am Departement Val-d''Oise an der Regioun Île-de-France.
+  text: De Canton de Cergy-Sud ass eng franséisch administrativ Andeelung am Arrondissement Pontoise, am Departement Val-d'Oise an der Regioun Île-de-France.
   start: 4976.364
   end: 4984.203
   segments:
@@ -29971,7 +29971,7 @@
   - {lab: k, dur: 0.155}
   - {lab: _, dur: 0.078}
 - prompt: lb-wiki-0318
-  text: D''Aweiung vun den Davidsstären, déi wéi d''Monument selwer, vum Lé Tanson sinn, war Sonndes den 21. Februar 1976, a Presenz vu Vertrieder vun der Regierung, der Chamber, den Deportéierten a Zwangsrekrutéierten, de Resistenzler an den Hollerecher Veräiner.
+  text: D'Aweiung vun den Davidsstären, déi wéi d'Monument selwer, vum Lé Tanson sinn, war Sonndes den 21. Februar 1976, a Presenz vu Vertrieder vun der Regierung, der Chamber, den Deportéierten a Zwangsrekrutéierten, de Resistenzler an den Hollerecher Veräiner.
   start: 4999.478
   end: 5023.088
   segments:
@@ -30213,7 +30213,7 @@
   - {lab: R, dur: 0.09}
   - {lab: _, dur: 0.085}
 - prompt: lb-wiki-0319
-  text: Den NGC 634 ass eng Spiralgalaxis. Si läit op enger Distanz vun 250 Millioune Liichtjoer vun eis ewech am Stärebild Triangulum. D''Galaxis gouf vum franséischen Astronom Édouard Jean-Marie Stephan entdeckt.
+  text: Den NGC 634 ass eng Spiralgalaxis. Si läit op enger Distanz vun 250 Millioune Liichtjoer vun eis ewech am Stärebild Triangulum. D'Galaxis gouf vum franséischen Astronom Édouard Jean-Marie Stephan entdeckt.
   start: 5035.548
   end: 5049.324
   segments:
@@ -30478,7 +30478,7 @@
   - {lab: s, dur: 0.145}
   - {lab: _, dur: 0.103}
 - prompt: lb-wiki-0321
-  text: Den NGC 1316 huet eng visuell Magnitude vu +8,5 mag an eng Wénkelausdeenung vun 12,0'' × 8,5''.
+  text: Den NGC 1316 huet eng visuell Magnitude vu +8,5 mag an eng Wénkelausdeenung vun 12,0' × 8,5'.
   start: 5060.85
   end: 5069.541
   segments:
@@ -30629,7 +30629,7 @@
   - {lab: t, dur: 0.135}
   - {lab: _, dur: 0.042}
 - prompt: lb-wiki-0323
-  text: D''Galaxis NGC 1317 ass ongeféier 6'' nërdlech vum NGC 1316 a mécht zesummen mat deem eng interagéierent Koppel.
+  text: D'Galaxis NGC 1317 ass ongeféier 6' nërdlech vum NGC 1316 a mécht zesummen mat deem eng interagéierent Koppel.
   start: 5086.734
   end: 5094.941
   segments:
@@ -31535,7 +31535,7 @@
   - {lab: R, dur: 0.075}
   - {lab: _, dur: 0.104}
 - prompt: lb-wiki-0333
-  text: Am Joer 1935 ass d''Famill no Eretz an Israel ausgewandert an do gouf säi Papp 1937 Oberrabbiner.
+  text: Am Joer 1935 ass d'Famill no Eretz an Israel ausgewandert an do gouf säi Papp 1937 Oberrabbiner.
   start: 5209.556
   end: 5216.903
   segments:
@@ -31854,7 +31854,7 @@
   - {lab: R, dur: 0.08}
   - {lab: _, dur: 0.15}
 - prompt: lb-wiki-0336
-  text: Hien ass, wéi de Grand-Duc Jean vu Lëtzebuerg dunn an d''englesch Arméi gaang an huet als Panzerkommandant an enger Elite-Unitéit(Guard Armoured Division) géint Nazi-Däitschland gekämpft.
+  text: Hien ass, wéi de Grand-Duc Jean vu Lëtzebuerg dunn an d'englesch Arméi gaang an huet als Panzerkommandant an enger Elite-Unitéit(Guard Armoured Division) géint Nazi-Däitschland gekämpft.
   start: 5249.863
   end: 5259.079
   segments:
@@ -32392,7 +32392,7 @@
   - {lab: n, dur: 0.125}
   - {lab: _, dur: 0.106}
 - prompt: lb-wiki-0339
-  text: Ënnert den 18 Projeten, déi agereecht goufen, gouf d''Friddenskinnigin(sou den Numm vum Entworf vun der haiteger Gëlle Fra) vum Claus Cito zeréckgehalen.
+  text: Ënnert den 18 Projeten, déi agereecht goufen, gouf d'Friddenskinnigin(sou den Numm vum Entworf vun der haiteger Gëlle Fra) vum Claus Cito zeréckgehalen.
   start: 5325.077
   end: 5332.952
   segments:
@@ -32522,7 +32522,7 @@
   - {lab: n, dur: 0.105}
   - {lab: _, dur: 0.03}
 - prompt: lb-wiki-0340
-  text: De Jean Mich huet mat sengem Projet den zweete Präis gemaach an doropshi verbattert d''Lëtzebuerger Land verlooss.
+  text: De Jean Mich huet mat sengem Projet den zweete Präis gemaach an doropshi verbattert d'Lëtzebuerger Land verlooss.
   start: 5347.785
   end: 5352.751
   segments:
@@ -32771,7 +32771,7 @@
   - {lab: R, dur: 0.015}
   - {lab: _, dur: 0.064}
 - prompt: lb-wiki-0344
-  text: Den 13. Mee 1917 sinn am Café des Mille Colonnes Vertrieder vu néng Vëlosveräiner zesumme komm fir d''F.S.C.L. ze grënnen.
+  text: Den 13. Mee 1917 sinn am Café des Mille Colonnes Vertrieder vu néng Vëlosveräiner zesumme komm fir d'F.S.C.L. ze grënnen.
   start: 5379.508
   end: 5387.174
   segments:
@@ -33053,7 +33053,7 @@
   - {lab: n, dur: 0.135}
   - {lab: _, dur: 0.031}
 - prompt: lb-wiki-0347
-  text: De Canton de Marseille-La Pomme ass eng franséisch administrativ Andeelung am Arrondissement Marseille, am Departement Bouches-du-Rhône an der Regioun Provence-Alpes-Côte d''Azur.
+  text: De Canton de Marseille-La Pomme ass eng franséisch administrativ Andeelung am Arrondissement Marseille, am Departement Bouches-du-Rhône an der Regioun Provence-Alpes-Côte d'Azur.
   start: 5424.339
   end: 5432.669
   segments:
@@ -33180,7 +33180,7 @@
   - {lab: R, dur: 0.12}
   - {lab: _, dur: 0.015}
 - prompt: lb-wiki-0348
-  text: Um Enn vum 19. Joerhonnert goufen an Europa an Amerika vill Nationalverbänn gegrënnt, wat d''Organisatioun vun internationale Rendez-vousen erméiglecht huet.
+  text: Um Enn vum 19. Joerhonnert goufen an Europa an Amerika vill Nationalverbänn gegrënnt, wat d'Organisatioun vun internationale Rendez-vousen erméiglecht huet.
   start: 5438.409
   end: 5446.285
   segments:
@@ -33737,7 +33737,7 @@
   - {lab: t, dur: 0.135}
   - {lab: _, dur: 0.042}
 - prompt: lb-wiki-0355
-  text: De Canton de Villefranche-sur-Mer ass eng franséisch administrativ Andeelung am Arrondissement Nice, an den Alpes-Maritimes an der Regioun Provence-Alpes-Côte d''Azur.
+  text: De Canton de Villefranche-sur-Mer ass eng franséisch administrativ Andeelung am Arrondissement Nice, an den Alpes-Maritimes an der Regioun Provence-Alpes-Côte d'Azur.
   start: 5503.531
   end: 5511.799
   segments:
@@ -33955,7 +33955,7 @@
   - {lab: 'a:', dur: 0.065}
   - {lab: _, dur: 0.075}
 - prompt: lb-wiki-0357
-  text: 1990 huet e mat sengem Brudder eng nei Partei, Porozumienie Centrum(PC), gegrënnt a gouf fir si 1991 an d''Parlament gewielt.
+  text: 1990 huet e mat sengem Brudder eng nei Partei, Porozumienie Centrum(PC), gegrënnt a gouf fir si 1991 an d'Parlament gewielt.
   start: 5538.777
   end: 5548.742
   segments:
@@ -34187,7 +34187,7 @@
   - {lab: n, dur: 0.1}
   - {lab: _, dur: 0.121}
 - prompt: lb-wiki-0359
-  text: 1997 gouf en enger anerer Lescht, där vun der Beweegung fir den Neiopbau vu Polen, nees an d''Parlament gewielt.
+  text: 1997 gouf en enger anerer Lescht, där vun der Beweegung fir den Neiopbau vu Polen, nees an d'Parlament gewielt.
   start: 5563.85
   end: 5570.299
   segments:
@@ -34571,7 +34571,7 @@
   - {lab: p, dur: 0.105}
   - {lab: _, dur: 0.015}
 - prompt: lb-wiki-0363
-  text: D''Mataarbechter vun der Caritas bidden hinnen do eng Kontaktméiglechkeet.
+  text: D'Mataarbechter vun der Caritas bidden hinnen do eng Kontaktméiglechkeet.
   start: 5609.578
   end: 5612.733
   segments:
@@ -34635,7 +34635,7 @@
   - {lab: t, dur: 0.11}
   - {lab: _, dur: 0.02}
 - prompt: lb-wiki-0364
-  text: Am Dageszentrum ''Téistuff'' kréie si eng Chance fir an dat normaalt Liewen zréck ze fannen duerch Gespréicher an Orientéierung.
+  text: Am Dageszentrum 'Téistuff' kréie si eng Chance fir an dat normaalt Liewen zréck ze fannen duerch Gespréicher an Orientéierung.
   start: 5617.933
   end: 5623.895
   segments:
@@ -34791,7 +34791,7 @@
   - {lab: n, dur: 0.15}
   - {lab: _, dur: 0.023}
 - prompt: lb-wiki-0366
-  text: 'Theodizee(vu gr. θεός = Gott an δίκη = Gerechtegkeet) ass e Problem mat deem déijéineg Relioune(besonnesch d''Chrëschtentum) konfrontéiert sinn, déi e Gott mat folgenden Eegeschafte postuléieren:'
+  text: "Theodizee(vu gr. θεός = Gott an δίκη = Gerechtegkeet) ass e Problem mat deem déijéineg Relioune(besonnesch d'Chrëschtentum) konfrontéiert sinn, déi e Gott mat folgenden Eegeschafte postuléieren:"
   start: 5650.684
   end: 5660.776
   segments:
@@ -35075,7 +35075,7 @@
   - {lab: n, dur: 0.18}
   - {lab: _, dur: 0.032}
 - prompt: lb-wiki-0368
-  text: Milan Club hat nämlech just italienesch Foussballspiller. Sou ass d''Internazionale Milano entstanen.
+  text: Milan Club hat nämlech just italienesch Foussballspiller. Sou ass d'Internazionale Milano entstanen.
   start: 5682.038
   end: 5687.344
   segments:
@@ -35325,7 +35325,7 @@
   - {lab: R, dur: 0.1}
   - {lab: _, dur: 0.059}
 - prompt: lb-wiki-0370
-  text: D''Veräinsfaarwe ware schonn deemols Blo a Schwaarz, fir de Kontrast mam Milan Club ze weisen.
+  text: D'Veräinsfaarwe ware schonn deemols Blo a Schwaarz, fir de Kontrast mam Milan Club ze weisen.
   start: 5718.042
   end: 5722.443
   segments:
@@ -36301,7 +36301,7 @@
   - {lab: n, dur: 0.15}
   - {lab: _, dur: 0.065}
 - prompt: lb-wiki-0382
-  text: D''BIP hat zu deem Moment awer och bal 150 Milliounen Euro Boergeld fir nei Investissementer.
+  text: D'BIP hat zu deem Moment awer och bal 150 Milliounen Euro Boergeld fir nei Investissementer.
   start: 5847.847
   end: 5853.51
   segments:
@@ -36827,7 +36827,7 @@
   - {lab: S, dur: 0.18}
   - {lab: _, dur: 0.03}
 - prompt: lb-wiki-0389
-  text: Vum 1. Januar 2000 un ass d'' Chambre des comptes duerch d''Cour des comptes ersat, déi duerch d''Gesetz vum 8. Juni 1999 kreéiert ginn ass.
+  text: Vum 1. Januar 2000 un ass d' Chambre des comptes duerch d'Cour des comptes ersat, déi duerch d'Gesetz vum 8. Juni 1999 kreéiert ginn ass.
   start: 5923.228
   end: 5931.19
   segments:
@@ -36953,7 +36953,7 @@
   - {lab: s, dur: 0.185}
   - {lab: _, dur: 0.036}
 - prompt: lb-wiki-0390
-  text: Saint-Paul Luxembourg S.A. ass e Multimedia-Verlagshaus mat ugeschlossener Dréckerei zu Lëtzebuerg. Et ass 1848 als Sankt-Paulus Druckerei gegrënnt ginn fir d''Luxemburger Wort für Wahrheit und Recht erauszeginn.
+  text: Saint-Paul Luxembourg S.A. ass e Multimedia-Verlagshaus mat ugeschlossener Dréckerei zu Lëtzebuerg. Et ass 1848 als Sankt-Paulus Druckerei gegrënnt ginn fir d'Luxemburger Wort für Wahrheit und Recht erauszeginn.
   start: 5937.815
   end: 5950.178
   segments:
@@ -37575,7 +37575,7 @@
   - {lab: '@', dur: 0.015}
   - {lab: _, dur: 0.019}
 - prompt: lb-wiki-0395
-  text: 'Den 20. Mäerz 1982, huet si de Prënz Nikolaus vu Liechtenstein an der Stater Kathedral bestuet. D''Koppel krut 4 Kanner:'
+  text: "Den 20. Mäerz 1982, huet si de Prënz Nikolaus vu Liechtenstein an der Stater Kathedral bestuet. D'Koppel krut 4 Kanner:"
   start: 6006.797
   end: 6014.271
   segments:
@@ -38120,7 +38120,7 @@
   - {lab: n, dur: 0.12}
   - {lab: _, dur: 0.031}
 - prompt: lb-wiki-0399
-  text: De 27. Mäerz 1863 gouf hie vum Poopst Pius IX. zum Titulärbëschof vun Halikarnassos an zum Apostolesche Vikar vu Lëtzebuerg ernannt. D''Bëschofswei war den 29. Juni 1863 ënnert dem Bild vun der Tréischterin an der Kierch Notre-Dame.
+  text: De 27. Mäerz 1863 gouf hie vum Poopst Pius IX. zum Titulärbëschof vun Halikarnassos an zum Apostolesche Vikar vu Lëtzebuerg ernannt. D'Bëschofswei war den 29. Juni 1863 ënnert dem Bild vun der Tréischterin an der Kierch Notre-Dame.
   start: 6106.415
   end: 6122.858
   segments:
@@ -38371,7 +38371,7 @@
   - {lab: m, dur: 0.075}
   - {lab: _, dur: 0.118}
 - prompt: lb-wiki-0400
-  text: D''F.L.G. ass 1991 gegrënnt ginn.
+  text: D'F.L.G. ass 1991 gegrënnt ginn.
   start: 6126.3
   end: 6128.918
   segments:
@@ -38575,7 +38575,7 @@
   - {lab: f, dur: 0.185}
   - {lab: _, dur: 0.052}
 - prompt: lb-wiki-0403
-  text: Leicester(ausgeschwat ''Lester'') ass eng Stad am Zentrum vun England an eng onofhängeg Grofschaft(''Unitary Authority'').
+  text: Leicester(ausgeschwat 'Lester') ass eng Stad am Zentrum vun England an eng onofhängeg Grofschaft('Unitary Authority').
   start: 6161.559
   end: 6168.107
   segments:
@@ -39731,7 +39731,7 @@
   - {lab: n, dur: 0.08}
   - {lab: _, dur: 0.029}
 - prompt: lb-wiki-0415
-  text: De 4. Januar 871 gelénkt et dem Ethelred d''Däne bei der Schluecht vu Reading ze klappen, mä hie selwer kënnt an der Schluecht vu Merton den 23. Abrëll 871 ëm d''Liewen an ass zu Wimborne am Dorset begruewen.
+  text: De 4. Januar 871 gelénkt et dem Ethelred d'Däne bei der Schluecht vu Reading ze klappen, mä hie selwer kënnt an der Schluecht vu Merton den 23. Abrëll 871 ëm d'Liewen an ass zu Wimborne am Dorset begruewen.
   start: 6338.095
   end: 6352.018
   segments:
@@ -40077,7 +40077,7 @@
   - {lab: j, dur: 0.04}
   - {lab: _, dur: 0.09}
 - prompt: lb-wiki-0418
-  text: D''Baueren haten Angscht datt hir Recolte vu Brigange géife geplëmmt ginn, a hu sech mat Mëschtgafele bewaffnet, soubal d''Glacke gelaut hunn.
+  text: D'Baueren haten Angscht datt hir Recolte vu Brigange géife geplëmmt ginn, a hu sech mat Mëschtgafele bewaffnet, soubal d'Glacke gelaut hunn.
   start: 6415.263
   end: 6422.167
   segments:
@@ -40180,7 +40180,7 @@
   - {lab: n, dur: 0.115}
   - {lab: _, dur: 0.054}
 - prompt: lb-wiki-0419
-  text: Wa si matkruten, datt keng Gefor do war, hu si sech op de Wee bei d''Schlass vun hirem Här gemaach.
+  text: Wa si matkruten, datt keng Gefor do war, hu si sech op de Wee bei d'Schlass vun hirem Här gemaach.
   start: 6426.224
   end: 6430.674
   segments:
@@ -40250,7 +40250,7 @@
   - {lab: X, dur: 0.185}
   - {lab: _, dur: 0.035}
 - prompt: lb-wiki-0420
-  text: Si hunn d''herrschaftlech Titele gefuerdert, déi d''wirtschaftlech a sozial Ofhängegkeet etabléiert haten, an dës Pabeiere verbrannt.
+  text: Si hunn d'herrschaftlech Titele gefuerdert, déi d'wirtschaftlech a sozial Ofhängegkeet etabléiert haten, an dës Pabeiere verbrannt.
   start: 6437.742
   end: 6443.946
   segments:
@@ -40353,7 +40353,7 @@
   - {lab: t, dur: 0.07}
   - {lab: _, dur: 0.048}
 - prompt: lb-wiki-0421
-  text: Wa sech den Här a seng Leit gewiert hunn, goufe si perséinlech ugegraff a vill Häre sinn dobäi ëm d''Liewe komm, an hir Schlässer goufe geplëmmt oder verbrannt.
+  text: Wa sech den Här a seng Leit gewiert hunn, goufe si perséinlech ugegraff a vill Häre sinn dobäi ëm d'Liewe komm, an hir Schlässer goufe geplëmmt oder verbrannt.
   start: 6451.555
   end: 6459.024
   segments:
@@ -40696,7 +40696,7 @@
   - {lab: f, dur: 0.185}
   - {lab: _, dur: 0.113}
 - prompt: lb-wiki-0424
-  text: De Canton d''Orgelet ass eng franséisch administrativ Andeelung am Arrondissement Lons-le-Saunier, am Jura an der Franche-Comté.
+  text: De Canton d'Orgelet ass eng franséisch administrativ Andeelung am Arrondissement Lons-le-Saunier, am Jura an der Franche-Comté.
   start: 6495.943
   end: 6502.392
   segments:
@@ -40894,7 +40894,7 @@
   - {lab: R, dur: 0.1}
   - {lab: _, dur: 0.052}
 - prompt: lb-wiki-0426
-  text: D''Mutz vum Monomach(russ. Schapka Monomacha) ass eent vun de Symboler vun der russescher Autokratie a gëtt momentan an der Schatzkummer vum Moskauer Kreml ausgestallt.
+  text: D'Mutz vum Monomach(russ. Schapka Monomacha) ass eent vun de Symboler vun der russescher Autokratie a gëtt momentan an der Schatzkummer vum Moskauer Kreml ausgestallt.
   start: 6528.141
   end: 6538.499
   segments:
@@ -41021,7 +41021,7 @@
   - {lab: t, dur: 0.085}
   - {lab: _, dur: 0.018}
 - prompt: lb-wiki-0427
-  text: Si war d''Kréinungsinsignie vun alle gekréinte Groussfürste vu Moskau an Zare vum Dmitri Donskoi bis zum Péiter I. dee Groussen.
+  text: Si war d'Kréinungsinsignie vun alle gekréinte Groussfürste vu Moskau an Zare vum Dmitri Donskoi bis zum Péiter I. dee Groussen.
   start: 6549.562
   end: 6557.831
   segments:
@@ -41171,7 +41171,7 @@
   - {lab: t, dur: 0.07}
   - {lab: _, dur: 0.017}
 - prompt: lb-wiki-0429
-  text: D''Andreaskreuz ass e Kräiz dat sech aus zwou Dunnen zesummesetzt, déi sech diagonal kräizen. Et gläicht dem Buschtaf X, de Chi am griicheschen Alphabeth.
+  text: D'Andreaskreuz ass e Kräiz dat sech aus zwou Dunnen zesummesetzt, déi sech diagonal kräizen. Et gläicht dem Buschtaf X, de Chi am griicheschen Alphabeth.
   start: 6575.762
   end: 6583.887
   segments:
@@ -41519,7 +41519,7 @@
   - {lab: 'o:', dur: 0.17}
   - {lab: _, dur: 0.019}
 - prompt: lb-wiki-0433
-  text: D''Hämelmaous-Léid(Heemelmaus-Lidd) ass e Fueslidd am Iechternacher Dialekt.
+  text: D'Hämelmaous-Léid(Heemelmaus-Lidd) ass e Fueslidd am Iechternacher Dialekt.
   start: 6628.828
   end: 6633.168
   segments:
@@ -41812,7 +41812,7 @@
   - {lab: n, dur: 0.155}
   - {lab: _, dur: 0.025}
 - prompt: lb-wiki-0436
-  text: De 16. Februar 1873 gouf den Text am ''Echternacher Anzeiger'' publizéiert.
+  text: De 16. Februar 1873 gouf den Text am 'Echternacher Anzeiger' publizéiert.
   start: 6661.506
   end: 6666.386
   segments:
@@ -42247,7 +42247,7 @@
   - {lab: t, dur: 0.045}
   - {lab: _, dur: 0.016}
 - prompt: lb-wiki-0440
-  text: 'D''Wuert Darwin bedeit:'
+  text: "D'Wuert Darwin bedeit:"
   start: 6722.575
   end: 6723.788
   segments:
@@ -42270,7 +42270,7 @@
   - {lab: t, dur: 0.145}
   - {lab: _, dur: 0.028}
 - prompt: lb-wiki-0441
-  text: 'Conakry ass d''Haaptstad vu Guinea an ass mat 1.871.185 Awunner(Stand: 1. Januar 2005) déi gréisste Stad vum Land.'
+  text: "Conakry ass d'Haaptstad vu Guinea an ass mat 1.871.185 Awunner(Stand: 1. Januar 2005) déi gréisste Stad vum Land."
   start: 6737.002
   end: 6746.648
   segments:
@@ -43257,7 +43257,7 @@
   - {lab: m, dur: 0.09}
   - {lab: _, dur: 0.081}
 - prompt: lb-wiki-0452
-  text: Terebellum ass d''Bezeechnung fir eng Grupp vu véier Stären am Stärebild Sagittarius. D''Grupp besteet aus de Stären ω Sgr, 59 Sgr, 60 Sgr an 62 Sgr.
+  text: Terebellum ass d'Bezeechnung fir eng Grupp vu véier Stären am Stärebild Sagittarius. D'Grupp besteet aus de Stären ω Sgr, 59 Sgr, 60 Sgr an 62 Sgr.
   start: 6905.749
   end: 6917.312
   segments:
@@ -43428,7 +43428,7 @@
   - {lab: N, dur: 0.065}
   - {lab: _, dur: 0.078}
 - prompt: lb-wiki-0454
-  text: D''Gare ass den Terminus vun den Eisebunnslinnen aus dem Nordoste vun England an dem Oste vu Schottland.
+  text: D'Gare ass den Terminus vun den Eisebunnslinnen aus dem Nordoste vun England an dem Oste vu Schottland.
   start: 6928.974
   end: 6934.136
   segments:
@@ -43507,7 +43507,7 @@
   - {lab: t, dur: 0.08}
   - {lab: _, dur: 0.018}
 - prompt: lb-wiki-0455
-  text: 'D''Geschichte der Luxemburger Mundartdichtung(Bd 1.: 1964, Bd. 2: 1967), ass seng éischt grouss Fuerschungspublikatioun. Zu senge Fuerschungsaarbéchten ass och seng Doktoratsthes ze zielen:'
+  text: "D'Geschichte der Luxemburger Mundartdichtung(Bd 1.: 1964, Bd. 2: 1967), ass seng éischt grouss Fuerschungspublikatioun. Zu senge Fuerschungsaarbéchten ass och seng Doktoratsthes ze zielen:"
   start: 6956.996
   end: 6969.236
   segments:
@@ -43890,7 +43890,7 @@
   - {lab: e, dur: 0.19}
   - {lab: _, dur: 0.017}
 - prompt: lb-wiki-0459
-  text: De Louis V. Joseph vu Bourbon-Condé, 8. Prënz vu Condé(1740), Prënz vum Blutt, ass den 9. August 1736 zu Paräis op d''Welt komm, an den 13. Mee 1818 zu Chantilly gestuerwen.
+  text: De Louis V. Joseph vu Bourbon-Condé, 8. Prënz vu Condé(1740), Prënz vum Blutt, ass den 9. August 1736 zu Paräis op d'Welt komm, an den 13. Mee 1818 zu Chantilly gestuerwen.
   start: 7003.966
   end: 7017.41
   segments:
@@ -45990,7 +45990,7 @@
   - {lab: a~, dur: 0.16}
   - {lab: _, dur: 0.017}
 - prompt: lb-wiki-0480
-  text: Dem Louis XVI. säi Finanzminister Turgot huet zënter 1775 d''Economie liberaliséiert, an d''Steierwiese reforméiert, mä ass dobäi awer op Widderstand vum Adel gestouss.
+  text: Dem Louis XVI. säi Finanzminister Turgot huet zënter 1775 d'Economie liberaliséiert, an d'Steierwiese reforméiert, mä ass dobäi awer op Widderstand vum Adel gestouss.
   start: 7272.7
   end: 7282.64
   segments:
@@ -46152,7 +46152,7 @@
   - {lab: s, dur: 0.18}
   - {lab: _, dur: 0.02}
 - prompt: lb-wiki-0481
-  text: D''Liberaliséierung vum Karhandel huet nom Mielkrich nees misse réckgängeg gemaach ginn.
+  text: D'Liberaliséierung vum Karhandel huet nom Mielkrich nees misse réckgängeg gemaach ginn.
   start: 7295.506
   end: 7299.637
   segments:
@@ -46513,7 +46513,7 @@
   - {lab: n, dur: 0.115}
   - {lab: _, dur: 0.058}
 - prompt: lb-wiki-0485
-  text: Dëse Widderstand huet de Kinnek gezwongen, d''Generalstänn fir de 5. Mee 1789 anzeberuffen, nodeems et dës Versammlung fir d''lescht am Joer 1614 ginn hat.
+  text: Dëse Widderstand huet de Kinnek gezwongen, d'Generalstänn fir de 5. Mee 1789 anzeberuffen, nodeems et dës Versammlung fir d'lescht am Joer 1614 ginn hat.
   start: 7340.427
   end: 7350.392
   segments:
@@ -46682,7 +46682,7 @@
   - {lab: t, dur: 0.13}
   - {lab: _, dur: 0.015}
 - prompt: lb-wiki-0486
-  text: D''Mariette Kemmer ass Professesch fir Sologesank a fir Art lyrique am Escher Conservatoire.
+  text: D'Mariette Kemmer ass Professesch fir Sologesank a fir Art lyrique am Escher Conservatoire.
   start: 7357.165
   end: 7361.525
   segments:
@@ -47859,7 +47859,7 @@
   - {lab: '@', dur: 0.025}
   - {lab: _, dur: 0.018}
 - prompt: lb-wiki-0500
-  text: D''Faulbaach ass eng Baach zu Lëtzebuerg an der Gemeng Mamer.
+  text: D'Faulbaach ass eng Baach zu Lëtzebuerg an der Gemeng Mamer.
   start: 7503.642
   end: 7506.15
   segments:
@@ -48536,7 +48536,7 @@
   - {lab: 'a:', dur: 0.105}
   - {lab: _, dur: 0.048}
 - prompt: lb-wiki-0508
-  text: De Canton de Nice-1 ass eng franséisch administrativ Andeelung am Arrondissement Nice, an den Alpes-Maritimes an der Regioun Provence-Alpes-Côte d''Azur.
+  text: De Canton de Nice-1 ass eng franséisch administrativ Andeelung am Arrondissement Nice, an den Alpes-Maritimes an der Regioun Provence-Alpes-Côte d'Azur.
   start: 7598.761
   end: 7606.494
   segments:
@@ -48727,7 +48727,7 @@
   - {lab: n, dur: 0.16}
   - {lab: _, dur: 0.026}
 - prompt: lb-wiki-0511
-  text: D''Käschtebeem(Aesculus) si Beem aus der Famill vun de Seefebamplanzen(Sapindaceae) mat ronn 15 Aarten an Nordamerika, Europa und Asien.
+  text: D'Käschtebeem(Aesculus) si Beem aus der Famill vun de Seefebamplanzen(Sapindaceae) mat ronn 15 Aarten an Nordamerika, Europa und Asien.
   start: 7661.429
   end: 7670.963
   segments:
@@ -49255,7 +49255,7 @@
   - {lab: n, dur: 0.05}
   - {lab: _, dur: 0.017}
 - prompt: lb-wiki-0515
-  text: Hie blouf Buergermeeschter bis un d''Enn vum Joer 1987.
+  text: Hie blouf Buergermeeschter bis un d'Enn vum Joer 1987.
   start: 7714.176
   end: 7717.798
   segments:
@@ -49818,7 +49818,7 @@
   - {lab: t, dur: 0.135}
   - {lab: _, dur: 0.019}
 - prompt: lb-wiki-0522
-  text: Et goufe vill Efforten an där Zäit gemaach fir de Club weider opzebauen an d''Konsequenz war 1931 den erneiten Opstig an d''Promotioun, mä no enger Saison si se erëm ofgestigen.
+  text: Et goufe vill Efforten an där Zäit gemaach fir de Club weider opzebauen an d'Konsequenz war 1931 den erneiten Opstig an d'Promotioun, mä no enger Saison si se erëm ofgestigen.
   start: 7798.162
   end: 7809.049
   segments:
@@ -50351,7 +50351,7 @@
   - {lab: N, dur: 0.015}
   - {lab: _, dur: 0.17}
 - prompt: lb-wiki-0528
-  text: De Canton d''Aix-en-Provence-Nord-Est ass eng franséisch administrativ Andeelung am Arrondissement Aix-en-Provence, am Departement Bouches-du-Rhône an der Regioun Provence-Alpes-Côte d''Azur.
+  text: De Canton d'Aix-en-Provence-Nord-Est ass eng franséisch administrativ Andeelung am Arrondissement Aix-en-Provence, am Departement Bouches-du-Rhône an der Regioun Provence-Alpes-Côte d'Azur.
   start: 7862.251
   end: 7871.146
   segments:
@@ -50836,7 +50836,7 @@
   - {lab: n, dur: 0.295}
   - {lab: _, dur: 0.051}
 - prompt: lb-wiki-0533
-  text: Hien huet sech an d''Abtei Prüm zeréckgezunn, wou en den 29. September 855 als Pater gestuerwen ass.
+  text: Hien huet sech an d'Abtei Prüm zeréckgezunn, wou en den 29. September 855 als Pater gestuerwen ass.
   start: 7928.319
   end: 7934.313
   segments:
@@ -50944,7 +50944,7 @@
   - {lab: s, dur: 0.135}
   - {lab: _, dur: 0.02}
 - prompt: lb-wiki-0534
-  text: Den Aloyse Schiltz als Zäitzeien am Film ''''Heim ins Reich''''
+  text: Den Aloyse Schiltz als Zäitzeien am Film ''Heim ins Reich''
   start: 7939.722
   end: 7943.164
   segments:
@@ -50991,7 +50991,7 @@
   - {lab: S, dur: 0.125}
   - {lab: _, dur: 0.047}
 - prompt: lb-wiki-0535
-  text: Am Géigesaz zu Länner wéi z.B. der Schwäiz oder der Belsch, wou je no Regioun verschidde Sprooche geschwat ginn, ass d''Distributioun vun de Sproochen net geographesch, mä fonctionnell an individuell(''Polyglossie'').
+  text: Am Géigesaz zu Länner wéi z.B. der Schwäiz oder der Belsch, wou je no Regioun verschidde Sprooche geschwat ginn, ass d'Distributioun vun de Sproochen net geographesch, mä fonctionnell an individuell('Polyglossie').
   start: 7951.998
   end: 7962.348
   segments:
@@ -51955,7 +51955,7 @@
   - {lab: t, dur: 0.15}
   - {lab: _, dur: 0.017}
 - prompt: lb-wiki-0544
-  text: D''Kierch vun Osper ass d''Dekanatskierch vun Osper. Se läit op enger Héicht, am südwestlechen Agang vum Duerf.
+  text: D'Kierch vun Osper ass d'Dekanatskierch vun Osper. Se läit op enger Héicht, am südwestlechen Agang vum Duerf.
   start: 8080.241
   end: 8085.621
   segments:
@@ -52039,7 +52039,7 @@
   - {lab: f, dur: 0.13}
   - {lab: _, dur: 0.02}
 - prompt: lb-wiki-0545
-  text: Seng Hobbyë sinn d''Eisebunn an déi Industriell Archeologie vun de Minièren zu Lëtzebuerg. Dofir mécht hie seng Recherchen an den Nationalarchiven, der Nationalbibliothéik an an der Fotothéik vun der Stad Lëtzebuerg.
+  text: Seng Hobbyë sinn d'Eisebunn an déi Industriell Archeologie vun de Minièren zu Lëtzebuerg. Dofir mécht hie seng Recherchen an den Nationalarchiven, der Nationalbibliothéik an an der Fotothéik vun der Stad Lëtzebuerg.
   start: 8092.935
   end: 8103.576
   segments:
@@ -52293,7 +52293,7 @@
   - {lab: k, dur: 0.095}
   - {lab: _, dur: 0.018}
 - prompt: lb-wiki-0548
-  text: D''Sizilianesch Verdeedegung ass eng Erëffnung vum Schachspill. Se zielt zu den Hallefoppene Spiller an ass an den ECO-Coden ënnert de Schlësselen B20 bis B99 klassifizéiert.
+  text: D'Sizilianesch Verdeedegung ass eng Erëffnung vum Schachspill. Se zielt zu den Hallefoppene Spiller an ass an den ECO-Coden ënnert de Schlësselen B20 bis B99 klassifizéiert.
   start: 8120.843
   end: 8131.804
   segments:
@@ -52636,7 +52636,7 @@
   - {lab: n, dur: 0.17}
   - {lab: _, dur: 0.02}
 - prompt: lb-wiki-0552
-  text: Zënter 1928 regelt de Bureau International des Expositions(BIE) d''Organisatioun vun de Weltausstellungen, déi dräi bis sechs Méint laang daueren.
+  text: Zënter 1928 regelt de Bureau International des Expositions(BIE) d'Organisatioun vun de Weltausstellungen, déi dräi bis sechs Méint laang daueren.
   start: 8164.817
   end: 8173.848
   segments:
@@ -52911,7 +52911,7 @@
   - {lab: s, dur: 0.185}
   - {lab: _, dur: 0.026}
 - prompt: lb-wiki-0555
-  text: No de Chamberwale vum 13. Juni 2004 huet hie misse säi Mandat opginn, mä den 20. Dezember 2007 gouf hien nees Deputéierten an der Chamber, wou en um Henri Grethen seng Plaz ''nogeréckelt'' ass.
+  text: No de Chamberwale vum 13. Juni 2004 huet hie misse säi Mandat opginn, mä den 20. Dezember 2007 gouf hien nees Deputéierten an der Chamber, wou en um Henri Grethen seng Plaz 'nogeréckelt' ass.
   start: 8205.518
   end: 8217.216
   segments:
@@ -53629,7 +53629,7 @@
   - {lab: s, dur: 0.175}
   - {lab: _, dur: 0.018}
 - prompt: lb-wiki-0562
-  text: 2008 waren D''espairsRay, Bullet for My Valentine a Blessthefall um Festival derbäi. 2009 sinn Thursday, Bring Me the Horizon, Four Year Strong, Pierce The Veil a Cancer Bats erëm ausschléisslech duerch Amerika gereest.
+  text: 2008 waren D'espairsRay, Bullet for My Valentine a Blessthefall um Festival derbäi. 2009 sinn Thursday, Bring Me the Horizon, Four Year Strong, Pierce The Veil a Cancer Bats erëm ausschléisslech duerch Amerika gereest.
   start: 8308.443
   end: 8322.132
   segments:
@@ -53846,7 +53846,7 @@
   - {lab: R, dur: 0.1}
   - {lab: _, dur: 0.016}
 - prompt: lb-wiki-0564
-  text: D''Kelsbaach ass eng Baach an der Gemeng Gréiwemaacher.
+  text: D'Kelsbaach ass eng Baach an der Gemeng Gréiwemaacher.
   start: 8333.097
   end: 8335.552
   segments:
@@ -54115,7 +54115,7 @@
   - {lab: n, dur: 0.15}
   - {lab: _, dur: 0.02}
 - prompt: lb-wiki-0569
-  text: Nërdlech vun Zolder lafen erëm vu riets d''Schaamsbeemdenbeek an d''Berkenbosbeek dran.
+  text: Nërdlech vun Zolder lafen erëm vu riets d'Schaamsbeemdenbeek an d'Berkenbosbeek dran.
   start: 8380.903
   end: 8387.413
   segments:
@@ -54209,7 +54209,7 @@
   - {lab: u, dur: 0.08}
   - {lab: _, dur: 0.015}
 - prompt: lb-wiki-0571
-  text: Eng aner wichteg Uwendung ass d''Bëndelung vu Sonneliicht zu der Notzbarmaachung vu Solarenergie.
+  text: Eng aner wichteg Uwendung ass d'Bëndelung vu Sonneliicht zu der Notzbarmaachung vu Solarenergie.
   start: 8399.804
   end: 8404.619
   segments:
@@ -54288,7 +54288,7 @@
   - {lab: 'i@', dur: 0.095}
   - {lab: _, dur: 0.064}
 - prompt: lb-wiki-0572
-  text: Duerch d''Bëndelung mat grousse Parabolspigelen loossen sech an dären Brennpunkt héich Temperaturen erreechen.
+  text: Duerch d'Bëndelung mat grousse Parabolspigelen loossen sech an dären Brennpunkt héich Temperaturen erreechen.
   start: 8409.855
   end: 8415.178
   segments:
@@ -54517,7 +54517,7 @@
   - {lab: k, dur: 0.145}
   - {lab: _, dur: 0.031}
 - prompt: lb-wiki-0574
-  text: Och klengtechnesch Uwendungen wéi d''Solarkacher notzen oft Parabolspigel fir d''Bëndelung vun der Sonnenenergie.
+  text: Och klengtechnesch Uwendungen wéi d'Solarkacher notzen oft Parabolspigel fir d'Bëndelung vun der Sonnenenergie.
   start: 8442.816
   end: 8448.728
   segments:
@@ -54610,7 +54610,7 @@
   - {lab: 'i@', dur: 0.155}
   - {lab: _, dur: 0.093}
 - prompt: lb-wiki-0575
-  text: Dëse Prinzip gouf och schonns an der Antikitéit fir d''Ustieche vum Olympesche Feier agesat.
+  text: Dëse Prinzip gouf och schonns an der Antikitéit fir d'Ustieche vum Olympesche Feier agesat.
   start: 8453.178
   end: 8457.673
   segments:
@@ -54721,7 +54721,7 @@
   - {lab: n, dur: 0.065}
   - {lab: _, dur: 0.041}
 - prompt: lb-wiki-0577
-  text: .ae ass d''National Top-Level-Domän vun de Vereengten Arabeschen Emiraten.
+  text: .ae ass d'National Top-Level-Domän vun de Vereengten Arabeschen Emiraten.
   start: 8466.057
   end: 8470.502
   segments:
@@ -54880,7 +54880,7 @@
   - {lab: t, dur: 0.09}
   - {lab: _, dur: 0.017}
 - prompt: lb-wiki-0579
-  text: Op der lénkser Hand huet den 21. Arméikorps attackeéiert, an der Mëtt stoung déi drëtt Reservepanzerdivisioun, déi duerch e Konteruerder gestoppt gouf, a riets hunn Elementer vum Generol Roucaud(1.DIC) sengen Truppe konnten e Virstouss bis op d''Meuse bei Mouzon a Pourron maachen.
+  text: Op der lénkser Hand huet den 21. Arméikorps attackeéiert, an der Mëtt stoung déi drëtt Reservepanzerdivisioun, déi duerch e Konteruerder gestoppt gouf, a riets hunn Elementer vum Generol Roucaud(1.DIC) sengen Truppe konnten e Virstouss bis op d'Meuse bei Mouzon a Pourron maachen.
   start: 8524.036
   end: 8541.229
   segments:
@@ -55207,7 +55207,7 @@
   - {lab: R, dur: 0.105}
   - {lab: _, dur: 0.098}
 - prompt: lb-wiki-0581
-  text: Den 13. Mee 1988 fält den Chet Baker aus net geklärte Grënn(d''Zeitunge schreiwe vun Drogendealer) zu Amsterdam aus der Fënster vun engem Hotel. Hien ass direkt doud.
+  text: Den 13. Mee 1988 fält den Chet Baker aus net geklärte Grënn(d'Zeitunge schreiwe vun Drogendealer) zu Amsterdam aus der Fënster vun engem Hotel. Hien ass direkt doud.
   start: 8555.693
   end: 8565.404
   segments:
@@ -55553,7 +55553,7 @@
   - {lab: '@', dur: 0.015}
   - {lab: _, dur: 0.017}
 - prompt: fr-wiki-0001
-  text: Car cet animateur passionné de course cycliste n''ignore pas non plus que dans un peloton, il faut un outsider.
+  text: Car cet animateur passionné de course cycliste n'ignore pas non plus que dans un peloton, il faut un outsider.
   start: 8626.048
   end: 8637.432
 - prompt: fr-wiki-0002
@@ -55561,19 +55561,19 @@
   start: 8637.432
   end: 8649.852
 - prompt: fr-wiki-0003
-  text: Atteint par une terrible maladie, il poursuivit son travail à new-york jusqu''à l''extrême limite de ses forces.
+  text: Atteint par une terrible maladie, il poursuivit son travail à new-york jusqu'à l'extrême limite de ses forces.
   start: 8649.852
   end: 8661.052
 - prompt: fr-wiki-0004
-  text: Avant même d''avoir été légalisée, la grève est aujourd''hui devenue, en u r s s, un moyen de lutte banalisé.
+  text: Avant même d'avoir été légalisée, la grève est aujourd'hui devenue, en u r s s, un moyen de lutte banalisé.
   start: 8669.492
   end: 8676.892
 - prompt: fr-wiki-0005
-  text: Là encore, je souligne le rôle primordial <t ph=''d y n''>d''une</t> administratrice qui doit être capable de gérer un tel lieu.
+  text: Là encore, je souligne le rôle primordial <t ph='d y n'>d'une</t> administratrice qui doit être capable de gérer un tel lieu.
   start: 8676.892
   end: 8688.18
 - prompt: fr-wiki-0006
-  text: Ce manuel propose un vaste tableau d''horizon sur l''argent en france depuis la fin du dix-neuvième siècle.
+  text: Ce manuel propose un vaste tableau d'horizon sur l'argent en france depuis la fin du dix-neuvième siècle.
   start: 8688.18
   end: 8699.424
 - prompt: fr-wiki-0007
@@ -55585,7 +55585,7 @@
   start: 8711.868
   end: 8722.984
 - prompt: fr-wiki-0009
-  text: Chaque fois que <t ph=''s e''>c''est</t> possible, il vaut mieux former un ancien pour bénéficier de sa culture, résume le p d g.
+  text: Chaque fois que <t ph='s e'>c'est</t> possible, il vaut mieux former un ancien pour bénéficier de sa culture, résume le p d g.
   start: 8722.984
   end: 8733.655
 - prompt: fr-wiki-0010
@@ -55593,19 +55593,19 @@
   start: 8743.912
   end: 8752.272
 - prompt: fr-wiki-0011
-  text: <t ph=''s e''>C''est</t> une décision, a <t ph=''t i l''>t''il</t> dit dimanche soir, qui est un témoignage d''humanité et de solidarité européenne.
+  text: <t ph='s e'>C'est</t> une décision, a <t ph='t i l'>t'il</t> dit dimanche soir, qui est un témoignage d'humanité et de solidarité européenne.
   start: 8752.272
   end: 8764.272
 - prompt: fr-wiki-0012
-  text: Il s''agit d''infléchir des pratiques de gestion du personnel qui aboutissent à des drames sociaux et humains.
+  text: Il s'agit d'infléchir des pratiques de gestion du personnel qui aboutissent à des drames sociaux et humains.
   start: 8764.272
   end: 8776.2
 - prompt: fr-wiki-0013
-  text: Non, sans humour, le nonce affirmait, il y a peu qu''il avait alors agi ainsi pour faire plaisir aux américains.
+  text: Non, sans humour, le nonce affirmait, il y a peu qu'il avait alors agi ainsi pour faire plaisir aux américains.
   start: 8776.2
   end: 8789.648
 - prompt: fr-wiki-0014
-  text: <t ph=''d 9~''>D''un</t> côté, on lui reproche de ne pas aller assez vite dans les réformes notamment sur le terrain économique.
+  text: <t ph='d 9~'>D'un</t> côté, on lui reproche de ne pas aller assez vite dans les réformes notamment sur le terrain économique.
   start: 8789.648
   end: 8800.06
 - prompt: fr-wiki-0015
@@ -55617,11 +55617,11 @@
   start: 8813.78
   end: 8828.384
 - prompt: fr-wiki-0017
-  text: Madrid hésite à accepter cette dernière solution que l''organisation greenpeace voudrait maintenant imposer.
+  text: Madrid hésite à accepter cette dernière solution que l'organisation greenpeace voudrait maintenant imposer.
   start: 8828.384
   end: 8839.012
 - prompt: fr-wiki-0018
-  text: Si on l''examine de près, on aperçoit des plumes formant une barbe, entre guillemets, pendant par-dessus le bec.
+  text: Si on l'examine de près, on aperçoit des plumes formant une barbe, entre guillemets, pendant par-dessus le bec.
   start: 8839.012
   end: 8851.368
 - prompt: fr-wiki-0019
@@ -55629,7 +55629,7 @@
   start: 8851.368
   end: 8863.721
 - prompt: fr-wiki-0020
-  text: Image stéréotypée, qui n''a au fond que peu à voir avec le héros grec grand buveur et coureur impénitent.
+  text: Image stéréotypée, qui n'a au fond que peu à voir avec le héros grec grand buveur et coureur impénitent.
   start: 8879.338
   end: 8887.408
 - prompt: fr-wiki-0021
@@ -55641,15 +55641,15 @@
   start: 8897.708
   end: 8912.4
 - prompt: fr-wiki-0023
-  text: Il est dès lors normal que nous éprouvions beaucoup d''intérêt pour les problèmes du peuple azerbaïdjanais.
+  text: Il est dès lors normal que nous éprouvions beaucoup d'intérêt pour les problèmes du peuple azerbaïdjanais.
   start: 8912.4
   end: 8924.912
 - prompt: fr-wiki-0024
-  text: Marie restait là, immobile, percevant, avec une espèce d''acuité douloureuse, tous ces bruits déjà familiers.
+  text: Marie restait là, immobile, percevant, avec une espèce d'acuité douloureuse, tous ces bruits déjà familiers.
   start: 8924.912
   end: 8937.867
 - prompt: fr-wiki-0025
-  text: Interrompu au début de l''année, ce service a été réactivé après les intempéries qui ont coupé la route du col.
+  text: Interrompu au début de l'année, ce service a été réactivé après les intempéries qui ont coupé la route du col.
   start: 8951.487
   end: 8959.768
 - prompt: fr-wiki-0026
@@ -55657,11 +55657,11 @@
   start: 8959.768
   end: 8976.06
 - prompt: fr-wiki-0027
-  text: Ceux-ci donnent souvent <t ph=''e~ - p R e - '' s j o~''>l''impression</t> de redouter un complot visant <t ph=''i - '' R a~''>l''iran</t>, tout autant que <t ph=''l y''>l''u</t> r s s.
+  text: Ceux-ci donnent souvent <t ph='e~ - p R e - ' s j o~'>l'impression</t> de redouter un complot visant <t ph='i - ' R a~'>l'iran</t>, tout autant que <t ph='l y'>l'u</t> r s s.
   start: 8976.06
   end: 8989.104
 - prompt: fr-wiki-0028
-  text: Loin de s''améliorer, grâce à ce ballon d''oxygène, la situation financière du groupe allait en s''aggravant.
+  text: Loin de s'améliorer, grâce à ce ballon d'oxygène, la situation financière du groupe allait en s'aggravant.
   start: 8989.104
   end: 8999.972
 - prompt: fr-wiki-0029
@@ -55677,7 +55677,7 @@
   start: 9026.968
   end: 9038.08
 - prompt: fr-wiki-0032
-  text: Mais si l''on sait coudre ou cuisiner, encore faut-il, pour prétendre à un mari, posséder une dot en conséquence.
+  text: Mais si l'on sait coudre ou cuisiner, encore faut-il, pour prétendre à un mari, posséder une dot en conséquence.
   start: 9038.08
   end: 9052.326
 - prompt: fr-wiki-0033
@@ -55685,15 +55685,15 @@
   start: 9062.817
   end: 9070.336
 - prompt: fr-wiki-0034
-  text: Washington ne veut pas que l''augmentation du nombre de réfugiés juifs pénalise les autres exilés.
+  text: Washington ne veut pas que l'augmentation du nombre de réfugiés juifs pénalise les autres exilés.
   start: 9070.336
   end: 9081.34
 - prompt: fr-wiki-0035
-  text: Le fait est que depuis juin, l''opposition n''a montré aucune capacité à vaincre le syndrome de la désunion.
+  text: Le fait est que depuis juin, l'opposition n'a montré aucune capacité à vaincre le syndrome de la désunion.
   start: 9081.34
   end: 9093.722
 - prompt: fr-wiki-0036
-  text: À peine avais-je en main ce désiré trésor que tout m''était refusé, écrit-il le lendemain des noces.
+  text: À peine avais-je en main ce désiré trésor que tout m'était refusé, écrit-il le lendemain des noces.
   start: 9103.694
   end: 9111.128
 - prompt: fr-wiki-0037
@@ -55701,7 +55701,7 @@
   start: 9111.128
   end: 9120.872
 - prompt: fr-wiki-0038
-  text: Dans d''autres cas, les symptômes sont observés chez le nouveau-né qui ne manifeste aucun éveil visuel.
+  text: Dans d'autres cas, les symptômes sont observés chez le nouveau-né qui ne manifeste aucun éveil visuel.
   start: 9120.872
   end: 9133.488
 - prompt: fr-wiki-0039
@@ -55709,7 +55709,7 @@
   start: 9133.488
   end: 9146.431
 - prompt: fr-wiki-0040
-  text: Au moins, la journée judiciaire s''est-elle terminée sur une note plus plaisante et un verdict plus léger.
+  text: Au moins, la journée judiciaire s'est-elle terminée sur une note plus plaisante et un verdict plus léger.
   start: 9159.234
   end: 9166.72
 - prompt: fr-wiki-0041
@@ -55717,7 +55717,7 @@
   start: 9166.72
   end: 9177.536
 - prompt: fr-wiki-0042
-  text: Les hôtels de grosier, piscines vides et chaises longues en lambeaux, n''a été pas que mirage.
+  text: Les hôtels de grosier, piscines vides et chaises longues en lambeaux, n'a été pas que mirage.
   start: 9177.536
   end: 9188.32
 - prompt: fr-wiki-0043
@@ -55729,11 +55729,11 @@
   start: 9200.044
   end: 9211.42
 - prompt: fr-wiki-0045
-  text: En anglais, un wagon, ce n''est pas seulement une remorque, mais aussi bien un chariot ou une charrette.
+  text: En anglais, un wagon, ce n'est pas seulement une remorque, mais aussi bien un chariot ou une charrette.
   start: 9211.42
   end: 9222.3
 - prompt: fr-wiki-0046
-  text: L''ancien pesait mille six cent quatre vingt six tonnes dont mille cinq cent nonante et un tonnes en béton.
+  text: L'ancien pesait mille six cent quatre vingt six tonnes dont mille cinq cent nonante et un tonnes en béton.
   start: 9222.3
   end: 9234.712
 - prompt: fr-wiki-0047
@@ -55741,15 +55741,15 @@
   start: 9234.712
   end: 9244.636
 - prompt: fr-wiki-0048
-  text: Certains acteurs ont effectué des stages aux p t p et t pour mieux s''imprégner du milieu, nous dit-on.
+  text: Certains acteurs ont effectué des stages aux p t p et t pour mieux s'imprégner du milieu, nous dit-on.
   start: 9244.636
   end: 9258.904
 - prompt: fr-wiki-0049
-  text: Les <t ph=''w i - '' k E n d''>week-ends</t>, qui jalonnent les étapes de la chute, tiennent dans l''histoire du krach à une place singulière.
+  text: Les <t ph='w i - ' k E n d'>week-ends</t>, qui jalonnent les étapes de la chute, tiennent dans l'histoire du krach à une place singulière.
   start: 9258.904
   end: 9269.388
 - prompt: fr-wiki-0050
-  text: Il écrivit donc la machine infernale, quelque chose <t ph=''d 9~''>d''un</t> peu négligé, <t ph=''d 9~''>d''un</t> peu apache, <t ph=''d 9~''>d''un</t> peu bavard.
+  text: Il écrivit donc la machine infernale, quelque chose <t ph='d 9~'>d'un</t> peu négligé, <t ph='d 9~'>d'un</t> peu apache, <t ph='d 9~'>d'un</t> peu bavard.
   start: 9287.841
   end: 9295.06
 - prompt: fr-wiki-0051
@@ -55757,7 +55757,7 @@
   start: 9295.06
   end: 9306.388
 - prompt: fr-wiki-0052
-  text: Ils ne m''empêcheront pas de jouir de mon innocence et d''achever mes jours en paix malgré eux.
+  text: Ils ne m'empêcheront pas de jouir de mon innocence et d'achever mes jours en paix malgré eux.
   start: 9306.388
   end: 9319.04
 - prompt: fr-wiki-0053
@@ -55765,55 +55765,55 @@
   start: 9319.04
   end: 9328.24
 - prompt: fr-wiki-0054
-  text: Quand un adolescent arrive en prison, d''abord il frime puis il cherche à en sortir.
+  text: Quand un adolescent arrive en prison, d'abord il frime puis il cherche à en sortir.
   start: 9328.24
   end: 9338.776
 - prompt: fr-wiki-0055
-  text: Dans ce ghetto de boue et de torchis, la grenade s''achète deux francs et le fusil automatique cinq francs.
+  text: Dans ce ghetto de boue et de torchis, la grenade s'achète deux francs et le fusil automatique cinq francs.
   start: 9338.776
   end: 9352.876
 - prompt: fr-wiki-0056
-  text: Il ruine les lieux communs avec enthousiasme et use de la note en fin de chapitre comme <t ph=''d y n''>d''une</t> arme mortelle.
+  text: Il ruine les lieux communs avec enthousiasme et use de la note en fin de chapitre comme <t ph='d y n'>d'une</t> arme mortelle.
   start: 9352.876
   end: 9366.104
 - prompt: fr-wiki-0057
-  text: En plus, cette peinture ne recèle aucune valeur esthétique et elle est <t ph=''d 9~''>d''un</t> mauvais goût absolu.
+  text: En plus, cette peinture ne recèle aucune valeur esthétique et elle est <t ph='d 9~'>d'un</t> mauvais goût absolu.
   start: 9366.104
   end: 9376.832
 - prompt: fr-wiki-0058
-  text: Le mascaret est une grande vague qui se forme parfois à l''embouchure <t ph=''d 9~''>d''un</t> grand fleuve.
+  text: Le mascaret est une grande vague qui se forme parfois à l'embouchure <t ph='d 9~'>d'un</t> grand fleuve.
   start: 9376.832
   end: 9387.312
 - prompt: fr-wiki-0059
-  text: Il fut engagé à l''agence radio concurrente, malheureuse et vie réduite à néant de l''agence havas.
+  text: Il fut engagé à l'agence radio concurrente, malheureuse et vie réduite à néant de l'agence havas.
   start: 9387.312
   end: 9400.919
 - prompt: fr-wiki-0060
-  text: Mais ils n''en ont pas moins enregistré un recul sensible qu''ils n''ont pu attribuer qu''à la grogne syndicale.
+  text: Mais ils n'en ont pas moins enregistré un recul sensible qu'ils n'ont pu attribuer qu'à la grogne syndicale.
   start: 9415.175
   end: 9422.656
 - prompt: fr-wiki-0061
-  text: Ils ont suscité l''intérêt du monde entier et provoqué son intervention sous de multiples formes.
+  text: Ils ont suscité l'intérêt du monde entier et provoqué son intervention sous de multiples formes.
   start: 9422.656
   end: 9434.828
 - prompt: fr-wiki-0062
-  text: Aucun des deux groupes n''a jugé utile de faire figurer l''adjectif communiste sur son étiquette.
+  text: Aucun des deux groupes n'a jugé utile de faire figurer l'adjectif communiste sur son étiquette.
   start: 9434.828
   end: 9444.816
 - prompt: fr-wiki-0063
-  text: Il y avait un beau clocher, des champs légèrement ondulés, des bosquets, des étendues jaunies par l''été torride.
+  text: Il y avait un beau clocher, des champs légèrement ondulés, des bosquets, des étendues jaunies par l'été torride.
   start: 9444.816
   end: 9460.384
 - prompt: fr-wiki-0064
-  text: Mais peu lui importe, il aura dit sa vérité, en espérant que faute <t ph=''d 9~''>d''un</t> tribunal, ce livre lui rende justice.
+  text: Mais peu lui importe, il aura dit sa vérité, en espérant que faute <t ph='d 9~'>d'un</t> tribunal, ce livre lui rende justice.
   start: 9460.384
   end: 9473.125
 - prompt: fr-wiki-0065
-  text: Mais qui veut faire l''ange fait souvent la bête, on ne mesurait pas, à l''époque, l''ampleur des pertes subies.
+  text: Mais qui veut faire l'ange fait souvent la bête, on ne mesurait pas, à l'époque, l'ampleur des pertes subies.
   start: 9482.188
   end: 9489.484
 - prompt: fr-wiki-0066
-  text: La circulation demeure toutefois interdite pour les véhicules <t ph=''d 9~''>d''un</t> poids supérieur à seize tonnes.
+  text: La circulation demeure toutefois interdite pour les véhicules <t ph='d 9~'>d'un</t> poids supérieur à seize tonnes.
   start: 9489.484
   end: 9498.668
 - prompt: fr-wiki-0067
@@ -55821,7 +55821,7 @@
   start: 9498.668
   end: 9513.188
 - prompt: fr-wiki-0068
-  text: On regrette que ce captivant roman, à la fois érotique, policier, romantique, ne joue pas le jeu jusqu''au bout.
+  text: On regrette que ce captivant roman, à la fois érotique, policier, romantique, ne joue pas le jeu jusqu'au bout.
   start: 9513.188
   end: 9527.2
 - prompt: fr-wiki-0069
@@ -55829,7 +55829,7 @@
   start: 9527.2
   end: 9539.612
 - prompt: fr-wiki-0070
-  text: À tort, peut-être les gens ont tendance à voir des khmers rouges s''infiltrer ici et là, déguisés en civil.
+  text: À tort, peut-être les gens ont tendance à voir des khmers rouges s'infiltrer ici et là, déguisés en civil.
   start: 9539.612
   end: 9553.412
 - prompt: fr-wiki-0071
@@ -55841,7 +55841,7 @@
   start: 9562.272
   end: 9573.02
 - prompt: fr-wiki-0073
-  text: N''ayant pas pu me battre, on veut m''abattre, affirme le maire qui prétend n''être attaqué que par des rumeurs.
+  text: N'ayant pas pu me battre, on veut m'abattre, affirme le maire qui prétend n'être attaqué que par des rumeurs.
   start: 9573.02
   end: 9585.483
 - prompt: fr-wiki-0074
@@ -55849,11 +55849,11 @@
   start: 9594.105
   end: 9600.544
 - prompt: fr-wiki-0075
-  text: D''abord les rescapés qui, en changeant de case, cèdent un fauteuil pour un strapontin.
+  text: D'abord les rescapés qui, en changeant de case, cèdent un fauteuil pour un strapontin.
   start: 9600.544
   end: 9614.949
 - prompt: fr-wiki-0076
-  text: Je n''abandonnerai nullement mon goût pour l''idéal, je l''ai plus vif que jamais je l''aurai toujours.
+  text: Je n'abandonnerai nullement mon goût pour l'idéal, je l'ai plus vif que jamais je l'aurai toujours.
   start: 9622.22
   end: 9629.029
 - prompt: fr-wiki-0077
@@ -55869,7 +55869,7 @@
   start: 9671.184
   end: 9682.718
 - prompt: fr-wiki-0080
-  text: Les clients font vite, sans regarder ni choisir, comme s''il n''allait bientôt plus rien rester.
+  text: Les clients font vite, sans regarder ni choisir, comme s'il n'allait bientôt plus rien rester.
   start: 9694.3
   end: 9700.22
 - prompt: fr-wiki-0081
@@ -55881,11 +55881,11 @@
   start: 9709.568
   end: 9721.256
 - prompt: fr-wiki-0083
-  text: Cette thèse n''a pour autant jamais convaincu l''opinion juive ni une bonne partie de l''opinion catholique.
+  text: Cette thèse n'a pour autant jamais convaincu l'opinion juive ni une bonne partie de l'opinion catholique.
   start: 9721.256
   end: 9732.312
 - prompt: fr-wiki-0084
-  text: Il n''aimait pas la mort, il ne l''a pas vue venir, murmure une vieille dame sous sa toque en fourrure.
+  text: Il n'aimait pas la mort, il ne l'a pas vue venir, murmure une vieille dame sous sa toque en fourrure.
   start: 9732.312
   end: 9745.084
 - prompt: fr-wiki-0085
@@ -55893,15 +55893,15 @@
   start: 9745.084
   end: 9756.692
 - prompt: fr-wiki-0086
-  text: Le parti socialiste et la gauche ont besoin <t ph=''d 9~''>d''un</t> nouveau souffle, a déclaré en conclusion monsieur fabius.
+  text: Le parti socialiste et la gauche ont besoin <t ph='d 9~'>d'un</t> nouveau souffle, a déclaré en conclusion monsieur fabius.
   start: 9756.692
   end: 9766.348
 - prompt: fr-wiki-0087
-  text: Un sous-main est un rectangle de cuir ou de buvard qui sert d''appui pour écrire sur un bureau.
+  text: Un sous-main est un rectangle de cuir ou de buvard qui sert d'appui pour écrire sur un bureau.
   start: 9766.348
   end: 9777.667
 - prompt: fr-wiki-0088
-  text: Leur nombre a doublé en quatre ans sans que la reprise de l''emploi ait eu une quelconque influence positive.
+  text: Leur nombre a doublé en quatre ans sans que la reprise de l'emploi ait eu une quelconque influence positive.
   start: 9793.305
   end: 9803.064
 - prompt: fr-wiki-0089
@@ -55909,39 +55909,39 @@
   start: 9803.064
   end: 9814.84
 - prompt: fr-wiki-0090
-  text: Au jardin d''enfants, il ne comprenait ni ne parlait l''anglais et n''a pas dit un mot pendant deux mois.
+  text: Au jardin d'enfants, il ne comprenait ni ne parlait l'anglais et n'a pas dit un mot pendant deux mois.
   start: 9814.84
   end: 9825.592
 - prompt: fr-wiki-0091
-  text: Il y a des instants où je m''accuse d''égoïsme, où je me demande si ma place n''est pas auprès de vous.
+  text: Il y a des instants où je m'accuse d'égoïsme, où je me demande si ma place n'est pas auprès de vous.
   start: 9825.592
   end: 9837
 - prompt: fr-wiki-0092
-  text: La liberté, ainsi, exige l''ignorance du destin que le monde réserve à l''entreprise humaine.
+  text: La liberté, ainsi, exige l'ignorance du destin que le monde réserve à l'entreprise humaine.
   start: 9837
   end: 9847.24
 - prompt: fr-wiki-0093
-  text: L''argument, selon lequel le candidat a eu douze toute l''année et cinq au bac, n''est guère retenu.
+  text: L'argument, selon lequel le candidat a eu douze toute l'année et cinq au bac, n'est guère retenu.
   start: 9847.24
   end: 9860.068
 - prompt: fr-wiki-0094
-  text: Tes lunettes sont myopes, juge plein de grâce, tu te trompes d''adresse dans ton compliment.
+  text: Tes lunettes sont myopes, juge plein de grâce, tu te trompes d'adresse dans ton compliment.
   start: 9860.068
   end: 9872.392
 - prompt: fr-wiki-0095
-  text: Il apparaissait déjà et la météo l''affirmait que le gros du cyclone tropical hugo passerait plus au nord.
+  text: Il apparaissait déjà et la météo l'affirmait que le gros du cyclone tropical hugo passerait plus au nord.
   start: 9872.392
   end: 9886.256
 - prompt: fr-wiki-0096
-  text: Au tennis ou au football, faire un lob, <t ph=''s e''>c''est</t> faire passer la balle au-dessus du joueur adverse.
+  text: Au tennis ou au football, faire un lob, <t ph='s e'>c'est</t> faire passer la balle au-dessus du joueur adverse.
   start: 9886.256
   end: 9897.484
 - prompt: fr-wiki-0097
-  text: Pékin craint, avant tout, qu''avec les capitaux occidentaux, les idées bourgeoises fassent leur chemin.
+  text: Pékin craint, avant tout, qu'avec les capitaux occidentaux, les idées bourgeoises fassent leur chemin.
   start: 9897.484
   end: 9910.748
 - prompt: fr-wiki-0098
-  text: Notre amitié ne s''arrête pas au stade, nous voulons jouer un rôle social, proclament-ils.
+  text: Notre amitié ne s'arrête pas au stade, nous voulons jouer un rôle social, proclament-ils.
   start: 9910.748
   end: 9920.024
 - prompt: fr-wiki-0099
@@ -55949,7 +55949,7 @@
   start: 9920.024
   end: 9930.678
 - prompt: fr-wiki-0100
-  text: Il y en a qui tortillent des élastiques, d''autres qui mastiquent des chewing-gums avec une énergie de boxeur.
+  text: Il y en a qui tortillent des élastiques, d'autres qui mastiquent des chewing-gums avec une énergie de boxeur.
   start: 9946.861
   end: 9953.313
 - prompt: fr-wiki-0101
@@ -55957,11 +55957,11 @@
   start: 9981.261
   end: 9988.88
 - prompt: fr-wiki-0102
-  text: Veuillez excuser ce retard et agréer monsieur l''inspecteur cantonal nos salutations distinguées.
+  text: Veuillez excuser ce retard et agréer monsieur l'inspecteur cantonal nos salutations distinguées.
   start: 10002.331
   end: 10009.208
 - prompt: fr-wiki-0103
-  text: On ouvrit toute grande la fenêtre et on respira un bon bol d''air.
+  text: On ouvrit toute grande la fenêtre et on respira un bon bol d'air.
   start: 10009.208
   end: 10019.48
 - prompt: fr-wiki-0104
@@ -55977,19 +55977,19 @@
   start: 10045.788
   end: 10059.724
 - prompt: fr-wiki-0107
-  text: Les enfants sont plus heureux et réussissent mieux au collège a qu''au collège b tout proche.
+  text: Les enfants sont plus heureux et réussissent mieux au collège a qu'au collège b tout proche.
   start: 10059.724
   end: 10073.06
 - prompt: fr-wiki-0108
-  text: L''eucalyptus est un arbre des régions chaudes dont les feuilles sentent très bon.
+  text: L'eucalyptus est un arbre des régions chaudes dont les feuilles sentent très bon.
   start: 10073.06
   end: 10082.976
 - prompt: fr-wiki-0109
-  text: Pour transvaser un liquide <t ph=''d 9~''>d''un</t> récipient dans un autre, on peut utiliser un siphon.
+  text: Pour transvaser un liquide <t ph='d 9~'>d'un</t> récipient dans un autre, on peut utiliser un siphon.
   start: 10082.976
   end: 10092.936
 - prompt: fr-wiki-0110
-  text: A milan, le mot s''adapte à toute production industrielle, pourvu qu''elle améliore ou simplifie la vie.
+  text: A milan, le mot s'adapte à toute production industrielle, pourvu qu'elle améliore ou simplifie la vie.
   start: 10092.936
   end: 10104.111
 - prompt: fr-wiki-0111
@@ -56017,11 +56017,11 @@
   start: 10183.368
   end: 10195.496
 - prompt: fr-wiki-0117
-  text: Au fond, ma jeunesse est une maladie mentale, j''ai l''âme badigeonnée <t ph=''d 9~''>d''un</t> enduit isolant.
+  text: Au fond, ma jeunesse est une maladie mentale, j'ai l'âme badigeonnée <t ph='d 9~'>d'un</t> enduit isolant.
   start: 10195.496
   end: 10209.232
 - prompt: fr-wiki-0118
-  text: J''ai mal vécu toute cette période au début et <t ph=''s e''>c''est</t> pourquoi j''ai ensuite été si silencieux, dit-il.
+  text: J'ai mal vécu toute cette période au début et <t ph='s e'>c'est</t> pourquoi j'ai ensuite été si silencieux, dit-il.
   start: 10209.232
   end: 10221.68
 - prompt: fr-wiki-0119
@@ -56037,15 +56037,15 @@
   start: 10243.5
   end: 10257.628
 - prompt: fr-wiki-0122
-  text: Le vote féminin serait-il au sein du parti socialiste un enjeu majeur à six mois <t ph=''d 9~''>d''un</t> congrès.
+  text: Le vote féminin serait-il au sein du parti socialiste un enjeu majeur à six mois <t ph='d 9~'>d'un</t> congrès.
   start: 10257.628
   end: 10269.092
 - prompt: fr-wiki-0123
-  text: Nous avons toujours pensé qu''un jour viendrait où il nous faudrait choisir.
+  text: Nous avons toujours pensé qu'un jour viendrait où il nous faudrait choisir.
   start: 10269.092
   end: 10278.076
 - prompt: fr-wiki-0124
-  text: Autant d''exemples où le monde des affaires a fait appel à la justice pour arbitrer ses conflits internes.
+  text: Autant d'exemples où le monde des affaires a fait appel à la justice pour arbitrer ses conflits internes.
   start: 10278.076
   end: 10289.944
 - prompt: fr-wiki-0125
@@ -56057,19 +56057,19 @@
   start: 10308.576
   end: 10314.263
 - prompt: fr-wiki-0127
-  text: Les étrangers critiquent l''accueil et l''ambiance par trop urbaine de nos sarcelles des neiges.
+  text: Les étrangers critiquent l'accueil et l'ambiance par trop urbaine de nos sarcelles des neiges.
   start: 10329.927
   end: 10336.032
 - prompt: fr-wiki-0128
-  text: Armé <t ph=''d y n''>d''une</t> panoplie de crayons feutre multicolores, je me livrai alors à un jeu enfantin sans doute.
+  text: Armé <t ph='d y n'>d'une</t> panoplie de crayons feutre multicolores, je me livrai alors à un jeu enfantin sans doute.
   start: 10336.032
   end: 10349.284
 - prompt: fr-wiki-0129
-  text: La mode de l''été nonante pourrait bien être un gigantesque poème dédié à la nature.
+  text: La mode de l'été nonante pourrait bien être un gigantesque poème dédié à la nature.
   start: 10349.284
   end: 10360.884
 - prompt: fr-wiki-0130
-  text: Elles utilisent une anode en magnésium et une cathode en cuivre, l''eau de mer servant d''électrolyte.
+  text: Elles utilisent une anode en magnésium et une cathode en cuivre, l'eau de mer servant d'électrolyte.
   start: 10360.884
   end: 10373.696
 - prompt: fr-wiki-0131
@@ -56077,7 +56077,7 @@
   start: 10373.696
   end: 10387.772
 - prompt: fr-wiki-0132
-  text: Le prochain rendez-vous est fixé au samedi dix neuf mars dès vingt heures à l''enseigne de mémoire courte.
+  text: Le prochain rendez-vous est fixé au samedi dix neuf mars dès vingt heures à l'enseigne de mémoire courte.
   start: 10387.772
   end: 10400.1
 - prompt: fr-wiki-0133
@@ -56085,11 +56085,11 @@
   start: 10400.1
   end: 10411.568
 - prompt: fr-wiki-0134
-  text: Ne risquent-ils pas de se heurter là aussi à leurs grands rivaux nippons, infiniment plus riches qu''eux.
+  text: Ne risquent-ils pas de se heurter là aussi à leurs grands rivaux nippons, infiniment plus riches qu'eux.
   start: 10411.568
   end: 10423.716
 - prompt: fr-wiki-0135
-  text: Les soubresauts internes n''empêchent pas l''europe d''envahir les débats de politique intérieure française.
+  text: Les soubresauts internes n'empêchent pas l'europe d'envahir les débats de politique intérieure française.
   start: 10423.716
   end: 10436.128
 - prompt: fr-wiki-0136
@@ -56097,19 +56097,19 @@
   start: 10436.128
   end: 10447.196
 - prompt: fr-wiki-0137
-  text: Bisque de homard foie gras et dinde aux cèpes et marrons doivent donner l''illusion du festin.
+  text: Bisque de homard foie gras et dinde aux cèpes et marrons doivent donner l'illusion du festin.
   start: 10447.196
   end: 10459.892
 - prompt: fr-wiki-0138
-  text: Un boomerang est une lance courbe qui revient à son point de départ quand on la lance <t ph=''d y n''>d''une</t> certaine façon.
+  text: Un boomerang est une lance courbe qui revient à son point de départ quand on la lance <t ph='d y n'>d'une</t> certaine façon.
   start: 10459.892
   end: 10474.576
 - prompt: fr-wiki-0139
-  text: Les contentieux iront en s''accumulant tant à cognac qu''à angoulême bordeaux et paris.
+  text: Les contentieux iront en s'accumulant tant à cognac qu'à angoulême bordeaux et paris.
   start: 10474.576
   end: 10487.096
 - prompt: fr-wiki-0140
-  text: On l''interviewe sur tout et sur rien gorbatchev, vous apparaît-il comme un homme sincère.
+  text: On l'interviewe sur tout et sur rien gorbatchev, vous apparaît-il comme un homme sincère.
   start: 10487.096
   end: 10500.8
 - prompt: fr-wiki-0141
@@ -56121,7 +56121,7 @@
   start: 10521.281
   end: 10527.948
 - prompt: fr-wiki-0143
-  text: J''étais en face <t ph=''d y n''>d''une</t> sorte de roman policier mieux <t ph=''d 9~''>d''un</t> vrai thriller métaphysique.
+  text: J'étais en face <t ph='d y n'>d'une</t> sorte de roman policier mieux <t ph='d 9~'>d'un</t> vrai thriller métaphysique.
   start: 10527.948
   end: 10539.2
 - prompt: fr-wiki-0144
@@ -56137,7 +56137,7 @@
   start: 10578.833
   end: 10585.912
 - prompt: fr-wiki-0147
-  text: On peut supposer que l''oxyde d''azote a lui aussi été bloqué par l''inversion des températures.
+  text: On peut supposer que l'oxyde d'azote a lui aussi été bloqué par l'inversion des températures.
   start: 10585.912
   end: 10596.996
 - prompt: fr-wiki-0148
@@ -56145,15 +56145,15 @@
   start: 10596.996
   end: 10604.42
 - prompt: fr-wiki-0149
-  text: Mais depuis quelques années, les choses ont bien changé et trois m fait un peu figure d''obstiné.
+  text: Mais depuis quelques années, les choses ont bien changé et trois m fait un peu figure d'obstiné.
   start: 10604.42
   end: 10619.976
 - prompt: fr-wiki-0150
-  text: Le site le plus haut d''europe pour l''astronomie offre, de juin à fin octobre, une fenêtre idéale sur le ciel.﻿cette année enfin, sans avoir adhéré à un syndicat, il a déjà fait grève en juin et à nouveau en septembre.
+  text: Le site le plus haut d'europe pour l'astronomie offre, de juin à fin octobre, une fenêtre idéale sur le ciel.﻿cette année enfin, sans avoir adhéré à un syndicat, il a déjà fait grève en juin et à nouveau en septembre.
   start: 10630.446
   end: 10644.736
 - prompt: fr-wiki-0151
-  text: Il n''y a qu''une solution, aider ces pays à trouver le chemin <t ph=''d y n''>d''une</t> croissance économique vigoureuse.
+  text: Il n'y a qu'une solution, aider ces pays à trouver le chemin <t ph='d y n'>d'une</t> croissance économique vigoureuse.
   start: 10644.736
   end: 10655.8
 - prompt: fr-wiki-0152
@@ -56165,7 +56165,7 @@
   start: 10667.6
   end: 10675.635
 - prompt: fr-wiki-0154
-  text: Profiter de cette occasion est beaucoup moins risqué que d''attaquer une caserne ou un commissariat.
+  text: Profiter de cette occasion est beaucoup moins risqué que d'attaquer une caserne ou un commissariat.
   start: 10687.58
   end: 10694.36
 - prompt: fr-wiki-0155
@@ -56177,15 +56177,15 @@
   start: 10708.732
   end: 10719.568
 - prompt: fr-wiki-0157
-  text: J''aurais pu m''en faire enlever d''autres, dit-elle, mais alors j''aurais pu perdre tout le monde.
+  text: J'aurais pu m'en faire enlever d'autres, dit-elle, mais alors j'aurais pu perdre tout le monde.
   start: 10719.568
   end: 10729.464
 - prompt: fr-wiki-0158
-  text: Où l''attendait un léger ouragan avec des vents de force neuf à dix et des creux de huit mètres.
+  text: Où l'attendait un léger ouragan avec des vents de force neuf à dix et des creux de huit mètres.
   start: 10729.464
   end: 10741.204
 - prompt: fr-wiki-0159
-  text: L''azerbaidjan est désormais en rébellion ouverte contre le gouvernement soviétique.
+  text: L'azerbaidjan est désormais en rébellion ouverte contre le gouvernement soviétique.
   start: 10741.204
   end: 10750.684
 - prompt: fr-wiki-0160
@@ -56193,11 +56193,11 @@
   start: 10750.684
   end: 10762.976
 - prompt: fr-wiki-0161
-  text: Il y a cinq ans, nous étions treizième dans la communauté plus la suisse, nous sommes onzième aujourd''hui.
+  text: Il y a cinq ans, nous étions treizième dans la communauté plus la suisse, nous sommes onzième aujourd'hui.
   start: 10762.976
   end: 10776.224
 - prompt: fr-wiki-0162
-  text: Les armements nucléaires français et anglais seuls n''auront plus d''effet dissuasif.
+  text: Les armements nucléaires français et anglais seuls n'auront plus d'effet dissuasif.
   start: 10776.224
   end: 10787
 - prompt: fr-wiki-0163
@@ -56217,7 +56217,7 @@
   start: 10830.663
   end: 10838.88
 - prompt: fr-wiki-0167
-  text: Elles vivent en symbiose, s''alimentent aux mêmes sources, éprouvent les mêmes joies, ont les mêmes soucis.
+  text: Elles vivent en symbiose, s'alimentent aux mêmes sources, éprouvent les mêmes joies, ont les mêmes soucis.
   start: 10838.88
   end: 10850.3
 - prompt: fr-wiki-0168
@@ -56225,7 +56225,7 @@
   start: 10850.3
   end: 10862.68
 - prompt: fr-wiki-0169
-  text: Les japonais se cantonnent aux ouvrages enluminés du moyen age, ainsi qu''aux modernes illustrés.
+  text: Les japonais se cantonnent aux ouvrages enluminés du moyen age, ainsi qu'aux modernes illustrés.
   start: 10862.68
   end: 10873.756
 - prompt: fr-wiki-0170
@@ -56233,15 +56233,15 @@
   start: 10873.756
   end: 10886.452
 - prompt: fr-wiki-0171
-  text: Sur des pentes raides isolées et à l'' ombre, des plaques de neige peuvent, cependant, être déclenchées.
+  text: Sur des pentes raides isolées et à l' ombre, des plaques de neige peuvent, cependant, être déclenchées.
   start: 10886.452
   end: 10899.708
 - prompt: fr-wiki-0172
-  text: On finit par avoir, au conseil municipal, son chef d''atelier ou son directeur du personnel.
+  text: On finit par avoir, au conseil municipal, son chef d'atelier ou son directeur du personnel.
   start: 10899.708
   end: 10909.24
 - prompt: fr-wiki-0173
-  text: Le rail, qui mène au travail, n''est pas de la même trempe que celui qui conduit à la mer ou à la montagne.
+  text: Le rail, qui mène au travail, n'est pas de la même trempe que celui qui conduit à la mer ou à la montagne.
   start: 10909.24
   end: 10924.068
 - prompt: fr-wiki-0174
@@ -56257,15 +56257,15 @@
   start: 10954.732
   end: 10965.488
 - prompt: fr-wiki-0177
-  text: Il y aurait sûrement beaucoup à dire sur cet univers impitoyable où chaque minute d''antenne vaut de l''or.
+  text: Il y aurait sûrement beaucoup à dire sur cet univers impitoyable où chaque minute d'antenne vaut de l'or.
   start: 10965.488
   end: 10977.34
 - prompt: fr-wiki-0178
-  text: Quatre vingt cinq pourcent d''entre eux ont franchi cet écueil avec succès.
+  text: Quatre vingt cinq pourcent d'entre eux ont franchi cet écueil avec succès.
   start: 10977.34
   end: 10988.651
 - prompt: fr-wiki-0179
-  text: Cela se concrétisera par le plan médias qui se veut un embryon de l''eurêka audiovisuel.
+  text: Cela se concrétisera par le plan médias qui se veut un embryon de l'eurêka audiovisuel.
   start: 11010.314
   end: 11017.128
 - prompt: fr-wiki-0180
@@ -56273,7 +56273,7 @@
   start: 11017.128
   end: 11030.948
 - prompt: fr-wiki-0181
-  text: S''ils acceptent un sérieux effort personnel, ils deviennent ingénieurs en quatre ou cinq ans.
+  text: S'ils acceptent un sérieux effort personnel, ils deviennent ingénieurs en quatre ou cinq ans.
   start: 11030.948
   end: 11040.032
 - prompt: fr-wiki-0182
@@ -56281,7 +56281,7 @@
   start: 11040.032
   end: 11051.444
 - prompt: fr-wiki-0183
-  text: La tétine <t ph=''d 9~''>d''un</t> biberon est son bout en caoutchouc qui sert à téter.
+  text: La tétine <t ph='d 9~'>d'un</t> biberon est son bout en caoutchouc qui sert à téter.
   start: 11051.444
   end: 11061.288
 - prompt: fr-wiki-0184
@@ -56293,7 +56293,7 @@
   start: 11071.568
   end: 11083.58
 - prompt: fr-wiki-0186
-  text: Toi, t''as une bonne paie mon gars, conclut un gréviste, pas nous, ceux qui bossent comme ceux qui ne bossent pas.
+  text: Toi, t'as une bonne paie mon gars, conclut un gréviste, pas nous, ceux qui bossent comme ceux qui ne bossent pas.
   start: 11083.58
   end: 11097.484
 - prompt: fr-wiki-0187
@@ -56301,7 +56301,7 @@
   start: 11097.484
   end: 11110.548
 - prompt: fr-wiki-0188
-  text: Cette prime, uniquement en vigueur aux impôts, présente l''avantage d''être calculée en points d''indice.
+  text: Cette prime, uniquement en vigueur aux impôts, présente l'avantage d'être calculée en points d'indice.
   start: 11110.548
   end: 11121.592
 - prompt: fr-wiki-0189
@@ -56317,7 +56317,7 @@
   start: 11143.932
   end: 11160.268
 - prompt: fr-wiki-0192
-  text: Enfin, on l''envoya de plus en plus loin chez les incas hercule, contre le fils du soleil o.
+  text: Enfin, on l'envoya de plus en plus loin chez les incas hercule, contre le fils du soleil o.
   start: 11160.268
   end: 11175.148
 - prompt: fr-wiki-0193
@@ -56333,11 +56333,11 @@
   start: 11208.033
   end: 11214.58
 - prompt: fr-wiki-0196
-  text: Le jazz pivote autour d''elle, le jazz et le reste au demeurant, mais le public feint de l''ignorer encore.
+  text: Le jazz pivote autour d'elle, le jazz et le reste au demeurant, mais le public feint de l'ignorer encore.
   start: 11214.58
   end: 11230.148
 - prompt: fr-wiki-0197
-  text: Du jour au lendemain, plus personne n''osa invoquer le führer ni se réclamer du credo nazi.
+  text: Du jour au lendemain, plus personne n'osa invoquer le führer ni se réclamer du credo nazi.
   start: 11230.148
   end: 11241.7
 - prompt: fr-wiki-0198
@@ -56433,7 +56433,7 @@
   start: 11435.408
   end: 11442.992
 - prompt: de-bits-0021
-  text: Zu schade für''s Altpapier.
+  text: Zu schade für's Altpapier.
   start: 11442.992
   end: 11446.14
 - prompt: de-bits-0022
@@ -56553,7 +56553,7 @@
   start: 11631.54
   end: 11639.864
 - prompt: de-bits-0051
-  text: 'Auch <t ph=''v e: s''>Wes</t> Frau Bobbi und sein Sohn Phillip beginnen, unter dem Tyrannen zu leiden.'
+  text: "Auch <t ph='v e: s'>Wes</t> Frau Bobbi und sein Sohn Phillip beginnen, unter dem Tyrannen zu leiden."
   start: 11639.864
   end: 11647.512
 - prompt: de-bits-0052
@@ -57157,7 +57157,7 @@
   start: 12789.444
   end: 12799.513
 - prompt: fr-wiki-0204
-  text: De prime abord, la fiancée ne cache pas que l''union avec un musulman, a manqué tuer sa famille sur le coup.
+  text: De prime abord, la fiancée ne cache pas que l'union avec un musulman, a manqué tuer sa famille sur le coup.
   start: 12815.717
   end: 12822.272
 - prompt: fr-wiki-0205
@@ -57165,11 +57165,11 @@
   start: 12822.272
   end: 12834.228
 - prompt: fr-wiki-0206
-  text: En mille neuf cent soixante et un, il y achète une bicoque en ruine qu''il retape.
+  text: En mille neuf cent soixante et un, il y achète une bicoque en ruine qu'il retape.
   start: 12834.228
   end: 12846.152
 - prompt: fr-wiki-0207
-  text: Sans doute, l''usage continu des acides fait maigrir, mais <t ph=''s e''>c''est</t> en détruisant la fraîcheur, la santé et la vie.
+  text: Sans doute, l'usage continu des acides fait maigrir, mais <t ph='s e'>c'est</t> en détruisant la fraîcheur, la santé et la vie.
   start: 12846.152
   end: 12859.368
 - prompt: fr-wiki-0208
@@ -57177,19 +57177,19 @@
   start: 12859.368
   end: 12868.84
 - prompt: fr-wiki-0209
-  text: La quintessence du bon genre à la française en matière d''assurance tient en effet à deux principes.
+  text: La quintessence du bon genre à la française en matière d'assurance tient en effet à deux principes.
   start: 12868.84
   end: 12882.811
 - prompt: fr-wiki-0210
-  text: Bref, après une douzaine d''années de pénitence, le continental a fait peau neuve et rouvert ses portes.
+  text: Bref, après une douzaine d'années de pénitence, le continental a fait peau neuve et rouvert ses portes.
   start: 12896.86
   end: 12903.984
 - prompt: fr-wiki-0211
-  text: Ici, elles s''occupent d''équiper un village en pompes à eau, là de soigner, ailleurs de sauver.
+  text: Ici, elles s'occupent d'équiper un village en pompes à eau, là de soigner, ailleurs de sauver.
   start: 12915.099
   end: 12922.855
 - prompt: fr-wiki-0212
-  text: En fait, nous donnons l''occasion aux adultes de redevenir des gamins le temps <t ph=''d y n''>d''une</t> journée.
+  text: En fait, nous donnons l'occasion aux adultes de redevenir des gamins le temps <t ph='d y n'>d'une</t> journée.
   start: 12936.671
   end: 12942.84
 - prompt: fr-wiki-0213
@@ -57197,11 +57197,11 @@
   start: 12942.84
   end: 12951.644
 - prompt: fr-wiki-0214
-  text: Le tennisman français s''est brûlé aux jambes en allumant un barbecue.
+  text: Le tennisman français s'est brûlé aux jambes en allumant un barbecue.
   start: 12951.644
   end: 12962.458
 - prompt: fr-wiki-0215
-  text: À pied, à dos d''âne, en camion, on va, on troque et on trafique à longueur de journée.
+  text: À pied, à dos d'âne, en camion, on va, on troque et on trafique à longueur de journée.
   start: 12982.641
   end: 12988.864
 - prompt: fr-wiki-0216
@@ -57213,11 +57213,11 @@
   start: 12999.248
   end: 13012.844
 - prompt: fr-wiki-0218
-  text: Le croquet est un jeu où l''on frappe une boule avec un long maillet.
+  text: Le croquet est un jeu où l'on frappe une boule avec un long maillet.
   start: 13012.844
   end: 13021.192
 - prompt: fr-wiki-0219
-  text: Dès que je ne travaille plus, je file là-bas m''occuper de tout tout le monde me tombe dessus.
+  text: Dès que je ne travaille plus, je file là-bas m'occuper de tout tout le monde me tombe dessus.
   start: 13021.192
   end: 13032.756
 - prompt: fr-wiki-0220
@@ -57225,15 +57225,15 @@
   start: 13032.756
   end: 13043.668
 - prompt: fr-wiki-0221
-  text: La lutte sera chaude sur le marché des petites voitures de plus de cent chevaux, l''an qui vient.
+  text: La lutte sera chaude sur le marché des petites voitures de plus de cent chevaux, l'an qui vient.
   start: 13043.668
   end: 13054.172
 - prompt: fr-wiki-0222
-  text: Le socialisme était, jusqu''ici, un bel idéal de l''humanité, mais on n''en a vu bien peu de belles réalisations.
+  text: Le socialisme était, jusqu'ici, un bel idéal de l'humanité, mais on n'en a vu bien peu de belles réalisations.
   start: 13054.172
   end: 13066.812
 - prompt: fr-wiki-0223
-  text: Aujourd''hui, entre protéger un site et aider un chômeur, il faut malheureusement choisir.
+  text: Aujourd'hui, entre protéger un site et aider un chômeur, il faut malheureusement choisir.
   start: 13066.812
   end: 13077.54
 - prompt: fr-wiki-0224
@@ -57241,7 +57241,7 @@
   start: 13077.54
   end: 13085.3
 - prompt: fr-wiki-0225
-  text: Il appartiendra à l''étudiant, ainsi transféré en lointaine banlieue, à s''organiser.
+  text: Il appartiendra à l'étudiant, ainsi transféré en lointaine banlieue, à s'organiser.
   start: 13085.3
   end: 13095.936
 - prompt: fr-wiki-0226
@@ -57249,15 +57249,15 @@
   start: 13095.936
   end: 13106.515
 - prompt: fr-wiki-0227
-  text: S''agit-il de l''aide familiale, une fille robuste et énergique à laquelle on dit qu''elle s''était attachée.
+  text: S'agit-il de l'aide familiale, une fille robuste et énergique à laquelle on dit qu'elle s'était attachée.
   start: 13116.123
   end: 13122.113
 - prompt: fr-wiki-0228
-  text: Le voyou blême, d''il y a dix ans, est trop impôt, est trop impatient pour rester fixé à la même image.
+  text: Le voyou blême, d'il y a dix ans, est trop impôt, est trop impatient pour rester fixé à la même image.
   start: 13136.344
   end: 13144.051
 - prompt: fr-wiki-0229
-  text: L''intérêt, que l''on accuse de tous nos crimes, mérite souvent d''être loué de nos bonnes actions.
+  text: L'intérêt, que l'on accuse de tous nos crimes, mérite souvent d'être loué de nos bonnes actions.
   start: 13149.232
   end: 13155.32
 - prompt: fr-wiki-0230
@@ -57277,7 +57277,7 @@
   start: 13185.712
   end: 13194.772
 - prompt: fr-wiki-0234
-  text: Du coup, quand j''ai joué une affaire de femmes, puis la vengeance <t ph=''d y n''>d''une</t> femme, je n''avais plus peur de rien.
+  text: Du coup, quand j'ai joué une affaire de femmes, puis la vengeance <t ph='d y n'>d'une</t> femme, je n'avais plus peur de rien.
   start: 13206.51
   end: 13213.42
 - prompt: fr-wiki-0235
@@ -57285,23 +57285,23 @@
   start: 13213.42
   end: 13224.452
 - prompt: fr-wiki-0236
-  text: Bouygues dispose, aujourd''hui, <t ph=''d y n''>d''une</t> trésorerie disponible de cinq zéro, cinq milliards de francs.
+  text: Bouygues dispose, aujourd'hui, <t ph='d y n'>d'une</t> trésorerie disponible de cinq zéro, cinq milliards de francs.
   start: 13224.452
   end: 13236.208
 - prompt: fr-wiki-0237
-  text: L''écolier, en guise d''excuse, explique que sa maman est rentrée du travail fatiguée.
+  text: L'écolier, en guise d'excuse, explique que sa maman est rentrée du travail fatiguée.
   start: 13236.208
   end: 13246.06
 - prompt: fr-wiki-0238
-  text: Un jour de mars mille huit cent quatre vingt, jules ferry eut cette formule, l''état enseignant et surveillant.
+  text: Un jour de mars mille huit cent quatre vingt, jules ferry eut cette formule, l'état enseignant et surveillant.
   start: 13246.06
   end: 13259.816
 - prompt: fr-wiki-0239
-  text: On se permet quelques folies, une escapade du côté des écharpes à cinquante et un lai qu''on dirait en laine.
+  text: On se permet quelques folies, une escapade du côté des écharpes à cinquante et un lai qu'on dirait en laine.
   start: 13275.682
   end: 13282.621
 - prompt: fr-wiki-0240
-  text: Ils arboraient d''énormes défenses recourbées, dont certaines pèsent jusqu''à cent vingt cinq kilos pièce.
+  text: Ils arboraient d'énormes défenses recourbées, dont certaines pèsent jusqu'à cent vingt cinq kilos pièce.
   start: 13291.966
   end: 13298.556
 - prompt: fr-wiki-0241
@@ -57309,7 +57309,7 @@
   start: 13298.556
   end: 13307.884
 - prompt: fr-wiki-0242
-  text: Faisons l''addition sept et cinq font douze, je pose deux et je retiens un.
+  text: Faisons l'addition sept et cinq font douze, je pose deux et je retiens un.
   start: 13307.884
   end: 13317.224
 - prompt: fr-wiki-0243
@@ -57317,15 +57317,15 @@
   start: 13317.224
   end: 13327.772
 - prompt: fr-wiki-0244
-  text: À quoi bon instaurer la démocratie si l''agora où les gens se parlent est un terrain vague invivable.
+  text: À quoi bon instaurer la démocratie si l'agora où les gens se parlent est un terrain vague invivable.
   start: 13327.772
   end: 13341.24
 - prompt: fr-wiki-0245
-  text: La fourchette, la machine à écrire ou la machine à laver le linge n''ont jamais fait peur à personne.
+  text: La fourchette, la machine à écrire ou la machine à laver le linge n'ont jamais fait peur à personne.
   start: 13341.24
   end: 13351.444
 - prompt: fr-wiki-0246
-  text: Il faut, qu''avec votre famille, nous prenions dès demain chacun une faucille.
+  text: Il faut, qu'avec votre famille, nous prenions dès demain chacun une faucille.
   start: 13351.444
   end: 13362.444
 - prompt: fr-wiki-0247
@@ -57341,7 +57341,7 @@
   start: 13386.96
   end: 13403.972
 - prompt: fr-wiki-0250
-  text: Perspectives d''avenir, les gypaètes barbus, actuellement en liberté, sont encore tous de jeunes oiseaux.
+  text: Perspectives d'avenir, les gypaètes barbus, actuellement en liberté, sont encore tous de jeunes oiseaux.
   start: 13403.972
   end: 13419.73
 - prompt: fr-wiki-0251
@@ -57349,7 +57349,7 @@
   start: 13426.905
   end: 13431.928
 - prompt: fr-wiki-0252
-  text: Les torpilles sont mûres, le sphinx va s'' en servir pour couler le menhir avec son homme-grenouille.
+  text: Les torpilles sont mûres, le sphinx va s' en servir pour couler le menhir avec son homme-grenouille.
   start: 13431.928
   end: 13443.568
 - prompt: fr-wiki-0253
@@ -57357,7 +57357,7 @@
   start: 13443.568
   end: 13457.968
 - prompt: fr-wiki-0254
-  text: Ils seraient prêts, le cas échéant, à s''adjoindre un cinquième homme.
+  text: Ils seraient prêts, le cas échéant, à s'adjoindre un cinquième homme.
   start: 13457.968
   end: 13467.216
 - prompt: fr-wiki-0255
