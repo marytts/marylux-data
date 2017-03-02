@@ -9,10 +9,13 @@ ext {
 }
 
 task downloadAudio {
-    outputs.files audioFile
+    outputs.file audioFile
     doLast {
-        audioFile.withOutputStream { out ->
-            out << new URL('https://github.com/marytts/marylux-data/releases/download/v0.1/marylux-data-0.1.flac').openStream()
+        download {
+            src 'https://github.com/marytts/marylux-data/releases/download/v0.1.1/marylux-data.flac'
+            dest audioFile
+            overwrite = false
         }
     }
+    wav.dependsOn it
 }
