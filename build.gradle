@@ -1,24 +1,18 @@
-apply plugin: 'base'
+plugins {
+    id 'org.m2ci.msp.flaml' version '0.1.0'
+}
 
 group 'de.dfki.mary'
 version '0.2.0-SNAPSHOT'
 
-ext {
-    audioFile = file("$buildDir/marylux-data.flac")
-    yamlFile = file('marylux-data.yaml')
-}
-
 task downloadAudio {
-    outputs.files audioFile
+    outputs.file flacFile
     doLast {
-        audioFile.withOutputStream { out ->
-            out << new URL('https://github.com/marytts/marylux-data/releases/download/v0.1/marylux-data-0.1.flac').openStream()
+        download {
+            src 'https://github.com/marytts/marylux-data/releases/download/v0.1.1/marylux-data.flac'
+            dest flacFile
+            overwrite = false
         }
     }
+    wav.dependsOn it
 }
-
-task text(type: ExtractTextTask)
-
-task wav(type: ExtractWavTask)
-
-task lab(type: ExtractLabTask)
