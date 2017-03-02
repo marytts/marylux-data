@@ -4,6 +4,11 @@ MaryLux Data
 [Unreleased]
 ------------
 
+### Changed
+
+- Cleaned up YAML
+- Simplify buildscript with custom task types
+
 [v0.1.1] - 2016-09-04
 ---------------------
 
