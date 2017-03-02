@@ -5,8 +5,8 @@ plugins {
 gradlePlugin {
     plugins {
         flamlPlugin {
-            id = 'flaml'
-            implementationClass = 'FlamlPlugin'
+            id = 'org.m2ci.msp.flaml'
+            implementationClass = 'org.m2ci.msp.flaml.FlamlPlugin'
         }
     }
 }

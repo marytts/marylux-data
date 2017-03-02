@@ -1,4 +1,4 @@
-apply plugin: 'flaml'
+apply plugin: 'org.m2ci.msp.flaml'
 
 group 'de.dfki.mary'
 version '0.2.0-SNAPSHOT'
