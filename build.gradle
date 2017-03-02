@@ -1,4 +1,4 @@
-apply plugin: 'base'
+apply plugin: 'flaml'
 
 group 'de.dfki.mary'
 version '0.2.0-SNAPSHOT'
@@ -16,9 +16,3 @@ task downloadAudio {
         }
     }
 }
-
-task text(type: ExtractTextTask)
-
-task wav(type: ExtractWavTask)
-
-task lab(type: ExtractLabTask)
