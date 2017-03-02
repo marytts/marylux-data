@@ -1,3 +1,3 @@
 [submodule "buildSrc"]
 	path = buildSrc
-	url = https://github.com/psibre/gradle-flaml-plugin.git
+	url = https://github.com/m2ci-msp/gradle-flaml-plugin.git
