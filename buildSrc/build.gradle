@@ -1,3 +1,16 @@
+plugins {
+    id 'java-gradle-plugin'
+}
+
+gradlePlugin {
+    plugins {
+        flamlPlugin {
+            id = 'flaml'
+            implementationClass = 'FlamlPlugin'
+        }
+    }
+}
+
 repositories {
     jcenter()
 }
